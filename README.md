@@ -1,7 +1,7 @@
-README
+# README
 ================
 
-Project Overview
+## Project Overview
 ---------------
 
 This project is designed to interact with the Chathub platform using Selenium and Python. The script logs in to the platform using Google authentication, sends problems to the chat interface, and extracts the outputs. The project also includes a feature to extract titles from JSON files and save the outputs to text files.
