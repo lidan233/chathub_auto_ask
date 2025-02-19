@@ -1,0 +1,86 @@
+Learning to Generate 3D Training Data through Hybrid Gradient
+Unsupervised Learning of Automotive 3D Crash Simulations using LSTMs
+Geometry-aware Generation of Adversarial and Cooperative Point Clouds
+GENESIS: Generative Scene Inference and Sampling with Object-Centric Latent Representations
+AdvectiveNet: An Eulerian-Lagrangian Fluidic Reservoir for Point Cloud Processing
+Semi-supervised 3D Face Reconstruction with Nonlinear Disentangled Representations
+RGBD-GAN: Unsupervised 3D Representation Learning From Natural Image Datasets via RGBD Image Synthesis
+Learning to Sit: Synthesizing Human-Chair Interactions via Hierarchical Control
+Learning to Group: A Bottom-Up Framework for 3D Part Discovery in Unseen Categories
+Unpaired Point Cloud Completion on Real Scans using Adversarial Training
+Deep 3D Pan via local adaptive "t-shaped" convolutions with global and local adaptive dilations
+CloudLSTM: A Recurrent Neural Model for Spatiotemporal Point-cloud Stream Forecasting
+Learning from Unlabelled Videos Using Contrastive Predictive Neural 3D Mapping
+DUAL ADVERSARIAL MODEL FOR GENERATING 3D POINT CLOUD
+FACE SUPER-RESOLUTION GUIDED BY 3D FACIAL PRIORS
+DeepV2D: Video to Depth with Differentiable Structure from Motion
+Unsupervised Generative 3D Shape Learning from Natural Images
+Higher-Order Function Networks for Learning Composable 3D Object Representations
+Global-Local Network for Learning Depth with Very Sparse Supervision
+Compressed Sensing with Deep Image Prior and Learned Regularization
+Image-guided Neural Object Rendering
+Deep 3D-Zoom Net: Unsupervised Learning of Photo-Realistic 3D-Zoom
+Reconstructing continuous distributions of 3D protein structure from cryo-EM images
+3D-SIC: 3D Semantic Instance Completion for RGB-D Scans
+MetaPix: Few-Shot Video Retargeting
+SCALOR: Generative World Models with Scalable Object Representations
+Sample-Based Point Cloud Decoder Networks
+Learning to Coordinate Manipulation Skills via Skill Behavior Diversification
+Vid2Game: Controllable Characters Extracted from Real-World Videos
+DeepSFM: Structure From Motion Via Deep Bundle Adjustment
+DO-AutoEncoder: Learning and Intervening Bivariate Causal Mechanisms in Images
+Learning to Infer User Interface Attributes from Images
+Differentially Private Survival Function Estimation
+On the Evaluation of Conditional GANs
+Splined Templated Based Handwriting Generation
+Learning to Generate 3D Training Data through Hybrid Gradient
+Unsupervised Generative 3D Shape Learning from Natural Images
+DUAL ADVERSARIAL MODEL FOR GENERATING 3D POINT CLOUD
+Geometry-aware Generation of Adversarial and Cooperative Point Clouds
+RGBD-GAN: Unsupervised 3D Representation Learning From Natural Image Datasets via RGBD Image Synthesis
+SCALOR: Generative World Models with Scalable Object Representations
+Deep 3D-Zoom Net: Unsupervised Learning of Photo-Realistic 3D-Zoom
+Learning to Sit: Synthesizing Human-Chair Interactions via Hierarchical Control
+Unsupervised Learning of Automotive 3D Crash Simulations using LSTMs
+Image-guided Neural Object Rendering
+Semi-supervised 3D Face Reconstruction with Nonlinear Disentangled Representations
+FACE SUPER-RESOLUTION GUIDED BY 3D FACIAL PRIORS
+Higher-Order Function Networks for Learning Composable 3D Object Representations
+Unpaired Point Cloud Completion on Real Scans using Adversarial Training
+
+
+
+"Disentangling 3D Prototypical Networks for Few-Shot Concept Learning"
+"Self-Supervised Multi-View Learning via Auto-Encoding 3D Transformations"
+"Three Dimensional Reconstruction of Botanical Trees with Simulatable Geometry"
+"Fold2Seq: A Joint Sequence(1D)-Fold(3D) Embedding-based Generative Model for Protein Design"
+"Training-Free Uncertainty Estimation for Dense Regression: Sensitivity as a Surrogate"
+"Unsupervised Audiovisual Synthesis via Exemplar Autoencoders"
+"Recovering Geometric Information with Learned Texture Perturbations"
+"Self-Supervised Video Representation Learning with Constrained Spatiotemporal Jigsaw"
+"PC2WF: 3D Wireframe Reconstruction from Raw Point Clouds"
+"Exploiting Playbacks in Unsupervised Domain Adaptation for 3D Object Detection"
+"Reinforcement Learning for Sparse-Reward Object-Interaction Tasks in First-person Simulated 3D Environments"
+"Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs"
+"Semi-Supervised Learning of Multi-Object 3D Scene Representations"
+"Goal-Auxiliary Actor-Critic for 6D Robotic Grasping with Point Clouds"
+"SBEVNet: End-to-End Deep Stereo Layout Estimation"
+"Fusion 360 Gallery: A Dataset and Environment for Programmatic CAD Reconstruction"
+"Unsupervised Simultaneous Depth-from-defocus and Depth-from-focus"
+"Single Image Depth Estimation Based on Spectral Consistency and Predicted View"
+"Training Data Generating Networks: Linking 3
+From the provided list, here are the titles specifically related to 3D reconstruction or generation:
+Disentangling 3D Prototypical Networks for Few-Shot Concept Learning
+Self-Supervised Multi-View Learning via Auto-Encoding 3D Transformations
+Three Dimensional Reconstruction of Botanical Trees with Simulatable Geometry
+From the provided list, here are the titles specifically related to 3D reconstruction or generation:
+PC2WF: 3D Wireframe Reconstruction from Raw Point Clouds
+Rethinking Sampling in 3D Point Cloud Generative Adversarial Networks
+BiPointNet: Binary Neural Network for Point Clouds
+Here are the titles related to 3D reconstruction or generation:
+Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs
+Fusion 360 Gallery: A Dataset and Environment for Programmatic CAD Reconstruction
+Semi-Supervised Learning of Multi-Object 3D Scene Representations
+Bayesian Meta-Learning for Few-Shot 3D Shape Completion
+SBEVNet: End-to-End Deep Stereo Layout Estimation
+Goal-Auxiliary Actor-Critic for 6D Robotic Grasping with Point Clouds

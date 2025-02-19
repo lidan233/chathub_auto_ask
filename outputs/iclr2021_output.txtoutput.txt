@@ -1,0 +1,125 @@
+Concentric Spherical GNN for 3D Representation Learning
+3D Scene Compression through Entropy Penalized Neural Representation Functions
+Generative Scene Graph Networks
+Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images
+Minimal Geometry-Distortion Constraint for Unsupervised Image-to-Image Translation
+Fine-grained Synthesis of Unrestricted Adversarial Examples
+Lightweight Long-Range Generative Adversarial Networks
+Denoising Diffusion Implicit Models
+On the Inversion of Deep Generative Models
+Learning Hyperbolic Representations for Unsupervised 3D Segmentation
+Conditional Generative Modeling via Learning the Latent Space
+Big GANs Are Watching You: Towards Unsupervised Object Segmentation with Off-the-Shelf Generative Models
+On Disentangled Representations Extracted from Pretrained GANs
+Image Animation with Refined Masking
+Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF
+Revisiting Point Cloud Classification with a Simple and Effective Baseline
+Transformers for Modeling Physical Systems
+Deformable Capsules for Object Detection
+VortexNet: Learning Complex Dynamic Systems with Physics-Embedded Networks
+Recurrent Neural Network Architecture based on Dynamic Systems Theory for Data Driven Modelling of Complex Physical Systems
+On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes
+A 3D Convolutional Neural Network for Predicting Wildfire Profiles
+Shape-Tailored Deep Neural Networks Using PDEs for Segmentation
+Grounding Physical Concepts of Objects and Events Through Dynamic Visual Reasoning
+GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
+Depth Completion using Plane-Residual Representation
+On the Adversarial Robustness of 3D Point Cloud Classification
+Point Cloud Instance Segmentation using Probabilistic Embeddings
+Transformer protein language models are unsupervised structure learners
+Deformable DETR: Deformable Transformers for End-to-End Object Detection
+Graph-Based Neural Network Models with Multiple Self-Supervised Auxiliary Tasks
+Neuron Activation Analysis for Multi-Joint Robot Reinforcement Learning
+Attention-driven Robotic Manipulation
+Scalable Graph Neural Networks for Heterogeneous Graphs
+Symmetry-Aware Actor-Critic for 3D Molecular Design
+Pre-Training by Completing Point Clouds
+ATOM3D: Tasks On Molecules in Three Dimensions
+LayoutTransformer: Relation-Aware Scene Layout Generation
+Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures
+Efficient Long-Range Convolutions for Point Clouds
+Unsupervised Discovery of 3D Physical Objects from Video
+The 3TConv: An Intrinsic Approach to Explainable 3D CNNs
+Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures
+Efficient Long-Range Convolutions for Point Clouds
+Unsupervised Discovery of 3D Physical Objects from Video
+R-MONet: Region-Based Unsupervised Scene Decomposition and Representation via Consistency of Object Representations
+Learning Neural Generative Dynamics for Molecular Conformation Generation
+MeshMVS: Multi-view Stereo Guided Mesh Reconstruction
+NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation
+GG-GAN: A Geometric Graph Generative Adversarial Network
+Learning to Generate 3D Shapes with Generative Cellular Automata
+Learning Mesh-Based Simulation with Graph Networks
+Optimization Planning for 3D ConvNets
+Neural representation and generation for RNA secondary structures
+Graph Deformer Network
+GENERATIVE MODEL-ENHANCED HUMAN MOTION PREDICTION
+Compositional Video Synthesis with Action Graphs
+Graph Coarsening with Neural Networks
+Accurately Solving Rod Dynamics with Graph Learning
+Neural Cellular Automata Manifold
+PlasticineLab: A Soft-Body Manipulation Benchmark with Differentiable Physics
+Sim2SG: Sim-to-Real Scene Graph Generation for Transfer Learning
+Incorporating Symmetry into Deep Dynamics Models for Improved Generalization
+Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis
+Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering
+Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders
+After analyzing the titles, only these two papers are directly related to 3D reconstruction or generation:
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+After analyzing the titles, none of them are directly focused on 3D reconstruction or generation. While some papers discuss generative models and visual representations, they don't specifically address 3D reconstruction or 3D generation tasks.
+After analyzing the titles, only one paper is directly related to 3D tasks:
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+While this paper deals with 3D segmentation rather than reconstruction or generation specifically, it's the only paper that works with 3D data as its primary focus.
+After carefully analyzing the titles, none of these papers are specifically focused on 3D reconstruction or generation. While some titles involve generative models or image-related tasks, none directly address 3D reconstruction or generation.
+After carefully analyzing the titles, two papers are related to 3D tasks:
+"Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+After analyzing the titles, two papers are related to 3D tasks:
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+"Diffeomorphic Template Transformers"
+After carefully analyzing the titles, the following papers are related to 3D tasks:
+"Shape-Tailored Deep Neural Networks Using PDEs for Segmentation"
+"A 3D Convolutional Neural Network for Predicting Wildfire Profiles"
+After carefully analyzing the titles, the following papers are related to 3D tasks:
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Depth Completion using Plane-Residual Representation"
+"On the Adversarial Robustness of 3D Point Cloud Classification"
+After carefully analyzing the titles, the following papers are related to 3D tasks:
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+After carefully analyzing the titles, the following papers are related to 3D tasks:
+"Deformable DETR: Deformable Transformers for End-to-End Object Detection"
+"Creative Sketch Generation"
+Note: While these titles have some potential 3D-related aspects, they are not strictly focused on 3D reconstruction or generation.
+After carefully analyzing the titles, the following papers are related to 3D tasks:
+"Pre-Training by Completing Point Clouds"
+"ATOM3D: Tasks On Molecules in Three Dimensions"
+"Motion Representations for Articulated Animation"
+"Symmetry-Aware Actor-Critic for 3D Molecular Design"
+After carefully analyzing the titles, the following papers are related to 3D tasks:
+"Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures"
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+After carefully analyzing the titles, the following papers are related to 3D tasks:
+"R-MONet: Region-Based Unsupervised Scene Decomposition and Representation via Consistency of Object Representations"
+Note: This is the only title that shows a clear potential connection to 3D reconstruction or generation in this list.
+After carefully analyzing the titles, the following papers are related to 3D tasks:
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"Conformation-Guided Molecular Representation with Hamiltonian Neural Networks"
+After carefully analyzing the titles, the following papers are related to 3D tasks:
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"Learning Mesh-Based Simulation with Graph Networks"
+"Optimization Planning for 3D ConvNets"
+After carefully analyzing the titles, the following papers are related to 3D tasks:
+"GENERATIVE MODEL-ENHANCED HUMAN MOTION PREDICTION"
+"Compositional Video Synthesis with Action Graphs"
+After carefully analyzing the titles, the following papers are related to 3D tasks:
+"Deep Convolution for Irregularly Sampled Temporal Point Clouds"
+"PlasticineLab: A Soft-Body Manipulation Benchmark with Differentiable Physics"
+After carefully analyzing the titles, the following papers are related to 3D tasks:
+"Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
