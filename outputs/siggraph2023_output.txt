@@ -1,0 +1,6 @@
+"3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models"
+"BakedSDF: Meshing Neural SDFs for Real
+Here are the titles that are highly related to single-view 3D reconstruction or generation:
+
+SingleShot Implicit Morphable Faces With Consistent Texture Parameterization
+NOFA: NeRF-based One-shot

@@ -1,0 +1,50 @@
+Multi-Frame Self-Supervised Depth With Transformers
+Multi-View Depth Estimation by Fusing Single-View Depth Probability With Multi-View Geometry
+Multi-View Mesh Reconstruction With Neural Deferred Shading
+Neural 3D Scene Reconstruction With the Manhattan-World Assumption
+Neural Points: Point Cloud Representation With Neural Fields for Arbitrary Upsampling
+Neural RGB-D Surface Reconstruction
+PlanarRecon: Real-Time 3D Plane Detection and Reconstruction From Posed Monocular Videos
+Pix2NeRF: Unsupervised Conditional p-GAN for Single Image to Neural Radiance Fields Translation
+Plenoxels: Radiance Fields Without Neural Networks
+Putting People in Their Place: Monocular Regression of 3D People in Depth
+RayMVSNet: Learning Ray-Based 1D Implicit Fields for Accurate Multi-View Stereo
+Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields
+RegNeRF: Regularizing Neural Radiance Fields for View Synthesis From Sparse Inputs
+Representing 3D Shapes With Probabilistic Directed Distance Fields
+RigNeRF: Fully Controllable Neural 3D Portraits
+Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations
+ShapeFormer: Transformer-Based Shape Completion via Sparse Representation
+Surface Reconstruction From Point Clouds by Learning Predictive Context Priors
+Surface Representation for Point Clouds
+Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis
+Topologically-Aware Deformation Fields for Single-View 3D Reconstruction
+Topology-Preserving Shape Reconstruction and Registration via Neural Diffeomorphic Flow
+Understanding 3D Object Articulation in Internet Videos
+Weakly
+Here are the relevant titles specifically related to single-view 3D reconstruction or generation:
+
+Neural 3D Scene Reconstruction With the Manhattan-World Assumption
+Neural Fields As Learnable Kernels for 3D Reconstruction
+Neural RGB-D Surface Reconstruction
+Neural Template: Topology-Aware Reconstruction and Disentangled Generation of 3D Meshes
+Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing
+Pix2NeRF: Unsupervised Conditional p-GAN for Single Image to Neural Radiance Fields Translation
+Point2Cyl: Reverse Engineering 3D Objects From Point Clouds to Extrusion Cylinders
+Pre-Train, Self-Train, Distill: A Simple Recipe for Supersizing 3D Reconstruction
+
+These titles specifically deal with reconstructing or generating 3D content from single-view or monocular inputs.
+Here are the relevant titles specifically related to single-view 3D reconstruction or generation:
+
+Neural Template: Topology-Aware Reconstruction and Disentangled Generation of 3D Meshes
+Registering Explicit to Implicit: Towards High-Fidelity Garment Mesh Reconstruction From Single Images
+Representing 3D Shapes With Probabilistic Directed Distance Fields
+RigNeRF: Fully Controllable Neural 3D Portraits
+Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations
+Self-Supervised Neural Articulated Shape and Appearance Models
+ShapeFormer: Transformer-Based Shape Completion via Sparse Representation
+StyleMesh: Style Transfer for Indoor 3D Scene Reconstructions
+StyleSDF: High-Resolution 3D-Consistent Image and Geometry Generation
+Surface Reconstruction From Point Clouds by Learning Predictive Context Priors
+Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis
+Here are the titles related to single-view

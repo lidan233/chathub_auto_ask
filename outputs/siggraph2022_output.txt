@@ -1,0 +1,18 @@
+"Neural 3D Reconstruction in the Wild"
+"Sketch2Pose: Estimating a 3D Character Pose From a Bitmap Sketch"
+"Single-view View Synthesis in the Wild With Learned Adaptive Multiplane Images"
+"Generating 3D Human Texture From a Single Image With Sampling and Refinement"
+"Photo-to-shape Material Transfer for Diverse Structures"
+"Symmetry-driven 3D Reconstruction From Concept Sketches"
+"Unsupervised Shape Completion via Deep Prior in the Neural Tangent Kernel Perspective"
+"VoLux-GAN: A Generative Model for 3D Face Synthesis With HDRI Relighting"
+Based on my analysis, here are the titles specifically related to single-view 3D reconstruction or generation:
+
+"Automatic Generation of a 3D Braid Hair Model From a Single Image"
+"Interactive Editing of Monocular Depth"
+"Neural 3D Reconstruction in the Wild"
+"Single-view View Synthesis in the Wild With Learned Adaptive Multiplane Images"
+"Symmetry-driven 3D Reconstruction From Concept Sketches"
+
+These papers specifically deal with reconstructing or generating 3D content from single-view inputs (single images, monocular views, or single sketches).
+After analyzing these titles, none of them are

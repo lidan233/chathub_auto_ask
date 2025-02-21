@@ -1,0 +1,114 @@
+"LASSIE: Learning Articulated Shapes from Sparse Image Ensemble via 3D Part Discovery"
+"Unsupervised Point Cloud Completion and Segmentation by Generative Adversarial Autoencoding Network"
+"AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos"
+"NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis"
+"SGAM: Building a Virtual 3D World through Simultaneous Generation and Mapping"
+"Flexible Diffusion Modeling of Long Videos"
+"Hamiltonian Latent Operators for content and motion disentanglement in image sequences"
+"Geodesic Self-Attention for 3D Point Clouds"
+"Multiview Human Body Reconstruction from Uncalibrated Cameras"
+"Toward Hard-pose Virtual Try-on via 3D-aware Global Correspondence Learning"
+"FNeVR: Neural Volume Rendering for Face Animation"
+"Learning Unified Representations for Multi-Resolution Face Recognition"
+"GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images"
+"Category-Level 6D Object Pose Estimation in the Wild: A Semi-Supervised Learning Approach and A New Dataset"
+"Learning Superpoint Graph Cut for 3D Instance Segmentation"
+"Unsupervised Object Detection Pretraining with Joint Object Priors Generation and Detector Learning"
+"Hand-Object Interaction Image Generation"
+"Effective Decision Boundary Learning for Class Incremental Learning"
+"Zero
+"Improving 3D-aware Image Synthesis with A Geometry-aware Discriminator"
+"Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields"
+"Spatial Pruned Sparse Convolution for Efficient 3D Object Detection"
+"NeuPhysics: Editable Neural Geometry and Physics from Monocular Videos"
+"3DILG: Irregular Latent Grids for 3D Generative Modeling"
+"EpiGRAF: Rethinking training of 3D GANs"
+"Unsupervised Multi-View Object Segmentation Using Radiance Field Propagation"
+"M2N: Mesh Movement Networks for PDE Solvers"
+"Learning Generalizable Part-based Feature Representation for 3D Point Clouds"
+"Shape, Light, and Material Decomposition from Images using Monte Carlo Rendering and Denoising"
+"Learning Viewpoint-Agnostic Visual Representations by Recovering Tokens in 3D Space"
+"Unifying Voxel-based Representation with Transformer for 3D Object Detection"
+"3DOS: Towards 3D Open Set Learning - Benchmarking and Understanding Semantic Novelty Detection on Point Clouds"
+"MultiScan: Scalable RGBD scanning for 3D environments with articulated objects"
+"
+"VoxGRAF: Fast 3D-Aware Image Synthesis with Sparse Voxel Grids"
+"MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction"
+"Fully Sparse 3D Object Detection"
+"OGC: Unsupervised 3D Object Segmentation from Rigid Dynamics of Point Clouds"
+"Generative Neural Articulated Radiance Fields"
+"PatchComplete: Learning Multi-Resolution Patch Priors for 3D Shape Completion on Unseen Categories"
+"MsSVT: Mixed-scale Sparse Voxel Transformer for 3D Object Detection on Point Clouds"
+"CageNeRF: Cage-based Neural Radiance Field for Generalized 3D Deformation and Animation"
+"TotalSelfScan: Learning Full-body Avatars from Self-Portrait Videos of Faces, Hands, and Bodies"
+"Structure-Preserving 3D Garment Modeling with Neural Sewing Machines"
+"Streaming Radiance Fields for 3D Video Synthesis"
+"DeepInteraction: 3D Object Detection via Modality Interaction"
+"D^2NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video"
+"Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms"
+"SNAKE: Shape-aware Neural 3D Keypoint Field"
+"LION: Latent Point Diffusion Models for 3D Shape Generation"
+"S
+3
+-NeRF: Neural Reflectance Field from Shading and Shadow under a Single Viewpoint"
+"GAUDI: A Neural Architect for Immersive 3D Scene Generation"
+"Self-Supervised Pretraining for Large-Scale Point Clouds"
+"Bridging Implicit and Explicit Geometric Transformations for Single-Image View Synthesis"
+"TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition"
+"BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework"
+After analyzing all the titles, here are the ones related to single-view 3D reconstruction or generation:
+
+LASSIE: Learning Articulated Shapes from Sparse Image Ensemble via 3D Part Discovery
+SGAM: Building a Virtual 3D World through Simultaneous Generation and Mapping
+Let Images Give You More: Point Cloud Cross-Modal Training for Shape Analysis
+
+These papers appear to deal with 3D reconstruction or generation tasks, though LASSIE uses sparse image sets rather than strictly single-view input.
+After analyzing the titles, here are the ones related to single-view 3D reconstruction or generation:
+
+Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera
+Multiview Human Body Reconstruction from Uncalibrated Cameras
+Language Conditioned Spatial Relation Reasoning for 3D Object Grounding
+Cancelled
+After analyzing the titles, here are the ones related to single-view 3D reconstruction or generation:
+
+Zero-Shot 3D Drug Design by Sketching and Generating
+Decomposing NeRF for Editing via Feature Field Distillation
+ShapeCrafter: A Character-Level Length-Control Algorithm for Non-Autoregressive Sentence Summarization
+Neural Transmitted Radiance Fields
+Learning Consistency-Aware Unsigned Distance Functions Progressively from Raw Point Clouds
+AniFaceGAN: Animatable 3D-Aware Face Image Generation for Video Avatars
+S-PIFu: Integrating Parametric Human Models with PIFu for Single-view Clothed Human Reconstruction
+After analyzing the titles, here are the ones related to single-view 3D reconstruction or generation:
+
+GenSDF: Two-Stage Learning of Generalizable Signed Distance Functions
+Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields
+NeuPhysics: Editable Neural Geometry and Physics from Monocular Videos
+NeIF: Representing General Reflectance as Neural Intrinsics Fields for Uncalibrated Photometric Stereo
+3DILG: Irregular Latent Grids for 3D Generative Modeling
+NeuForm: Adaptive Overfitting for Neural Shape Editing
+HSDF: Hybrid Sign and Distance Field for Modeling Surfaces with Arbitrary Topologies
+EpiGRAF: Rethinking training of 3D GANs
+Here are the titles related to single-view 3D reconstruction or generation:
+
+HF-NeuS: Improved Surface Reconstruction Using High-Frequency Details
+Shape, Light, and Material Decomposition from Images using Monte Carlo Rendering and Denoising
+Learning Generalizable Part-based Feature Representation for 3D Point Clouds
+Learning Viewpoint-Agnostic Visual Representations by Recovering Tokens in 3D Space
+Unifying Voxel-based Representation with Transformer for 3D Object Detection
+MultiScan: Scalable RGBD scanning for 3D environments with articulated objects
+3DOS: Towards 3D Open Set Learning - Benchmarking and Understanding Semantic Novelty Detection on Point Clouds
+Cancelled
+Cancelled
+Cancelled
+Here are the titles related to single-view 3D reconstruction or generation:
+
+LION: Latent Point Diffusion Models for 3D Shape Generation
+VisCo Grids: Surface Reconstruction with Viscosity and Coarea Grids
+S³-NeRF: Neural Reflectance Field from Shading and Shadow under a Single Viewpoint
+Bridging Implicit and Explicit Geometric Transformations for Single-Image View Synthesis
+CroCo: Self-Supervised Pre-training for 3D Vision Tasks by Cross-View Completion
+GAUDI: A Neural Architect for Immersive 3D Scene Generation
+Here are the titles related to single-view 3D reconstruction or generation:
+
+TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition
+Object Scene Representation Transformer

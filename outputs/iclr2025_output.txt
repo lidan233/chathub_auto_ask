@@ -1,0 +1,53 @@
+"PSHead: 3D Head Reconstruction from a Single Image with Diffusion Prior and Self-Enhancement"
+"TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis"
+"MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes"
+"MeshGen: Generating PBR Textured Mesh with Render-Enhanced Auto-Encoder and Generative Data Augmentation"
+"6D Object Pose Tracking in Internet Videos for Robotic Manipulation"
+"OmniRe: Omni Urban Scene Reconstruction"
+"E3D: Enhancing Sparsely-Supervised 3D Object Detector with Large Multimodal Models"
+"Sync4D: Video Guided Controllable Dynamics for Physics-Based 4D Generation"
+"No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images"
+"GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation"
+"Unleashing the Potential of Unlabeled Data: Bidirectional Collaborative Semi-Supervised Active Learning for 3D Object Detection"
+"LISA: UNLEASHING 2D DIFFUSION FOR 3D GENERATION VIA LIGHTWEIGHT IMAGE SPLATS ADAPTATION"
+"Lightweight Predictive 3D Gaussian Splats"
+"LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias"
+"A3D: Does Diffusion Dream about 3D Alignment?"
+"High-fidelity and realtime 3D Gaussian Head Avatars with Expressive and Compact blendshape representations"
+"NEXT-MOL: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation"
+"AR-1-to-3: Single
+Here are the titles specifically related to single-view 3D reconstruction or generation:
+
+PSHead: 3D Head Reconstruction from a Single Image with Diffusion Prior and Self-Enhancement
+
+Note that while there are several other papers related to 3D topics (like Gaussian Splatting, multi-view reconstruction, etc.), these don't specifically focus on single-view 3D reconstruction/generation. The only paper that explicitly addresses single-view 3D reconstruction is PSHead.
+Cancelled
+Here are the titles specifically related to single-view 3D reconstruction or generation:
+
+LISA: UNLEASHING 2D DIFFUSION FOR 3D GENERATION VIA LIGHTWEIGHT IMAGE SPLATS ADAPTATION
+MVLight: Relightable Text-to-3D Generation via Light-conditioned Multi-View Diffusion
+RODIN: Injecting 2D Foundational Features to 3D Vision Language Understanding
+PSformer: Parameter-efficient Transformer with Segment Attention for Time Series Forecasting
+SIGHT: Single-Image Conditioned Generation of Hand Trajectories for Hand-Object Interaction
+A3D: Does Diffusion Dream about 3D Alignment?
+LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias
+High-fidelity and realtime 3D Gaussian Head Avatars with Expressive and Compact blenshape representations
+Here are the titles specifically related to single-view 3D reconstruction or generation:
+
+NEXT-MOL: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation
+AR-1-to-3: Single Image to Consistent 3D Object Generation via Next-View Prediction
+S²GS: Self-supervised Gaussian Segmentation for Automatic 3D Object Scanning
+Hash3D: Training-free Acceleration for 3D Generation
+InfiniteMesh: View Interpolation using Multi-view Diff
+PSHead: 3D Head Reconstruction from a Single Image with Diffusion Prior and Self-Enhancement
+No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images
+SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects
+LISA: UNLEASHING 2D DIFFUSION FOR 3D GENERATION VIA LIGHTWEIGHT IMAGE SPLATS ADAPTATION
+Lightweight Predictive 3D Gaussian Splats
+MVLight: Relightable Text-to-3D Generation via Light-conditioned Multi-View Diffusion
+A3D: Does Diffusion Dream about 3D Alignment?
+High-fidelity and realtime 3D Gaussian Head Avatars with Expressive and Compact blenshape representations
+NEXT-MOL: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation
+AR-1-to-3: Single Image to Consistent 3D Object Generation via Next-View Prediction
+econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians
+InfiniteMesh: View Interpolation using Multi-view Diffusion for 3D Mesh Reconstruction

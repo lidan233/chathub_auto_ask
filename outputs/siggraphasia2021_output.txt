@@ -1,0 +1,5 @@
+PBNS: Physically Based Neural Simulation for Unsupervised Garment Pose Space Deformation
+Looking at these titles, none of them are directly focused on single-view 3D reconstruction or generation. The papers appear to be about:
+
+Clothing/garment simulation and modeling
+Motion control

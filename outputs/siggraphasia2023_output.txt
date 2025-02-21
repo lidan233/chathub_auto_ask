@@ -1,0 +1,7 @@
+360° Reconstruction From a Single Image Using Space Carved Outpainting
+AniPortraitGAN: Animatable 3D Portrait Generation from 2D Image Collections
+Inovis: Instant Novel-View Synthesis
+Neural Point-based Volum
+Here are the titles that are highly related to single-view 3D reconstruction or generation:
+
+360° Reconstruction From a Single Image Using Space Carved Outpa

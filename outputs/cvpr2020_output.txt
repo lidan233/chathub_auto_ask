@@ -1,0 +1,35 @@
+Cancelled
+"Single-Shot Monocular RGB-D Imaging Using Uneven Double Refraction"
+"Single-Stage 6D Object Pose Estimation"
+"Single-View View Synthesis With Multiplane Images"
+"The Edge of Depth: Explicit Constraints Between Segmentation and Depth"
+"Towards Better Generalization: Joint Depth-Pose Learning Without PoseNet"
+"Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content"
+"Unsupervised Learning for Intrinsic Image Decomposition From a Single Image"
+"Unsupervised Learning of Probably Symmetric Deformable 3D Objects From Images in the Wild"
+"Upgrading Optical Flow to 3D Scene Flow Through Optical Expansion"
+Based on my analysis, here are the titles specifically related to single-view 3D reconstruction or generation:
+
+"Novel View Synthesis of Dynamic Scenes With Globally Coherent Depths From a Monocular Camera"
+"Robust 3D Self-Portraits in Seconds"
+"Object-Occluded Human Shape and Pose Estimation From a Single Color Image"
+"PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization"
+"Self-Supervised Human Depth Estimation From Monocular Videos"
+
+These papers focus on reconstructing or generating 3D content from single-view/monocular inputs.
+Cancelled
+Novel Object Viewpoint Estimation Through Reconstruction Alignment
+PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization
+Reconstruct Locally, Localize Globally: A Model Free Method for Object Pose Estimation
+Robust 3D Self-Portraits in Seconds
+Rotate-and-Render: Unsupervised Photorealistic Face Rotation From Single-View Images
+SAPIEN: A SimulAted Part-Based Interactive ENvironment
+Shape Reconstruction by Learning Differentiable Surface Representations
+Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline
+SynSin: End-to-End View Synthesis From a Single Image
+TetraTSDF: 3D Human Reconstruction From a Single Image With a Tetrahedral Outer Shell
+Three-Dimensional Reconstruction of Human Interactions
+Through the Looking Glass: Neural 3D Reconstruction of Transparent Shapes
+Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes From a Single Image
+Towards Unsupervised Learning of Generative Models for 3D Controllable Image Synthesis
+Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild

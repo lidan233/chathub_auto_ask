@@ -1,0 +1,35 @@
+Cancelled
+DiffEdit: Diffusion-based semantic image editing with mask guidance
+Dual Diffusion Implicit Bridges for Image-to-Image Translation
+CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training
+Equivariant Shape-Conditioned Generation of 3D Molecules for Ligand-Based Drug Design
+Lossless Adaptation of Pretrained Vision Models For Robotic Manipulation
+Neural Image Compression with a Diffusion-based Decoder
+Embedding Fourier for Ultra-High-Definition Low-Light Image Enhancement
+ResGrad: Residual Denoising Diffusion Probabilistic Models for Text to Speech
+Light Sampling Field and BRDF Representation for Physically-based Neural Rendering
+CircNet: Meshing 3D Point Clouds with Circumcenter Detection
+Efficient Point Cloud Geometry Compression Through Neighborhood Point Transformer
+Differentiable Rendering with Reparameterized Volume Sampling
+Low-Rank Winograd Transformation for 3D Convolutional Neural Networks
+After analyzing all the titles, here are the ones directly related to single-view 3D reconstruction or generation:
+
+"Monocular Scene Reconstruction with 3D SDF Transformers"
+"Learning to Estimate Single-View Volumetric Flow Motions without 3D Supervision"
+
+These titles specifically deal with single-view/monocular 3D reconstruction or generation tasks.
+After analyzing the titles, here are the ones directly related to single-view 3D reconstruction or generation:
+
+"Monocular Scene Reconstruction with 3D SDF Transformers"
+"Learning to Estimate Single-View Volumetric Flow Motions without 3D Supervision"
+"Capturing the Motion of Every Joint: 3D Human Pose and Shape Estimation with Independent Tokens"
+Cancelled
+Monocular Scene Reconstruction with 3D SDF Transformers
+Neural Image-based Avatars: Generalizable Radiance Fields for Human Avatar Modeling
+View Synthesis with Sculpted Neural Points
+Corruption-free Single-view Self-supervised Learning on Graphs
+Learning to Estimate Single-View Volumetric Flow Motions without 3D Supervision
+No titles found.
+Light Sampling Field and BRDF Representation for Physically-based Neural Rendering
+Scalable 3D Object-centric Learning
+Efficient Point Cloud Geometry Compression Through Neighborhood Point Transformer

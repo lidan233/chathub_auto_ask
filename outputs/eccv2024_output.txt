@@ -1,0 +1,145 @@
+3DFG-PIFu: 3D Feature Grids for Human Digitization from Sparse Views
+Analysis-by-Synthesis Transformer for Single-View 3D Reconstruction
+CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model
+Coarse-to-Fine Implicit Representation Learning for 3D Hand-Object Reconstruction from a Single RGB-D Image
+Compress3D: a Compressed Latent Space for 3D Generation from a Single Image
+DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation
+DreamScene: 3D Gaussian-based Text-to-3D Scene Generation via Formation
+EMIE-MAP: Large-Scale Road Surface Reconstruction Based on Explicit Mesh and Implicit Encoding
+Efficient 3D-Aware Facial Image Editing via Attribute-Specific Prompt Learning
+FoundPose: Unseen Object Pose Estimation with Foundation Features
+FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models
+Generating Human Interaction Motions in Scenes with Text Control
+GeoGaussian: Geometry-aware Gaussian Splatting for Scene Rendering
+GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image
+HSR: Holistic 3D Human-Scene Reconstruction from Monocular Videos
+High-Fidelity 3D Textured Shapes Generation by Sparse Encoding and Adversarial Decoding
+Improving Neural Surface Reconstruction with Feature Priors from Multi-View Images
+Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal
+Learning 3D-aware GANs from Unposed Images with Template Feature Field
+Learning Signed Distance Functions from Multi-view Images with Volume Rendering Priors
+Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation
+Learning to Robustly Reconstruct Dynamic Scenes from Low-light Spike Streams
+MVDiffHD: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction
+MVSGaussian: Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo
+MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images
+Mono-ViFI: A Unified Learning Framework for Self-supervised Single- and Multi-frame Monocular Depth Estimation
+MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection
+Monocular Occupancy Prediction for Scalable Indoor Scenes
+NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields
+NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation
+Omni6DPose: A Benchmark and Model for Universal 6D Object Pose Estimation and Tracking
+Learning 3D-aware GANs from Unposed Images with Template Feature Field
+Learning Neural Surface Reconstruction with Feature Priors from Multi-View Images
+Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation
+PISR: Polarimetric Neural Implicit Surface Reconstruction for Textureless and Specular Objects
+Parameterization-driven Neural Surface Reconstruction for Object-oriented Editing in Neural Rendering
+Pixel-GS Density Control with Pixel-aware Gradient for 3D Gaussian Splatting
+PointNeRF++: A multi-scale, point-based Neural Radiance Field
+ReLoo: Reconstructing Humans Dressed in Loose Garments from Monocular Video in the Wild
+Reprojection Errors as Prompts for Efficient Scene Coordinate Regression
+Resolving Scale Ambiguity in Multi-view 3D Reconstruction using Dual-Pixel Sensors
+Revisiting Supervision for Continual Representation Learning
+RoGUENeRF: A Robust Geometry-Consistent Universal Enhancer for NeRF
+RoScenes: A Large-scale Multi-view 3D Dataset for Roadside Perception
+Robust Incremental Structure-from-Motion with Hybrid Features
+RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models
+RoofDiffusion: Constructing Roofs from Severely Corrupted Point Data via Diffusion
+SEED: A Simple and Effective 3D DETR in Point Clouds
+SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization
+SUP-NeRF: A Streamlined Unification of Pose Estimation and NeRF for Monocular 3D Object Reconstruction
+SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion
+Shape2Scene: 3D Scene Representation Learning Through Pre-training on Shape Data
+Shape-guided Configuration-aware Learning for Endoscopic-image-based Pose Estimation of Flexible Robotic Instruments
+Shapefusion: 3D localized human diffusion models
+Single-Photon 3D Imaging with Equi-Depth Photon Histograms
+Texture-GS: Disentangle the Geometry and Texture for 3D Gaussian Splatting Editing
+Thermal3D-GS: Physics-induced 3D Gaussians for Thermal Infrared Novel-view Synthesis
+Towards High-Quality 3D Motion Transfer with Realistic Apparel Animation
+Transferable 3D Adversarial Shape Completion using Diffusion Models
+Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors
+TriNeRFLet: A Wavelet Based Triplane NeRF Representation
+URS-NeRF: Unordered Rolling Shutter Bundle Adjustment for Neural Radiance Fields
+UniVoxel: Fast Inverse Rendering by Unified Voxelization of Scene Representation
+Unleashing the Potential of the Semantic Latent Space in Diffusion Models for Image Dehazing
+V2X-Real: a Large-Scale Dataset for Vehicle-to-Everything Cooperative Perception
+VQA-Diff: Exploiting VQA and Diffusion for Zero-Shot Image-to-3D Vehicle Asset Generation in Autonomous Driving
+View-Consistent Hierarchical 3D Segmentation Using Ultrametric Feature Fields
+Waldorf: Efficient 3D Object Reconstruction with Deep Learning
+WordRobe: Text-Guided Generation of Textured 3D Garments
+Zero-Shot Multi-Object Scene Completion
+Here are the relevant titles specifically focused on single-view 3D reconstruction or generation:
+
+"3D Reconstruction of Objects in Hands without Real World 3D Supervision"
+"Analysis-by-Synthesis Transformer for Single-View 3D Reconstruction"
+"BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream"
+"BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion"
+"CaesarNeRF: Calibrated Semantic Representation for Few-Shot Generalizable Neural Rendering"
+"CanonicalFusion: Generating Drivable 3D Human Avatars from Multiple Images"
+
+These titles specifically mention or focus on reconstructing or generating 3D content from single-view or limited inputs.
+Here are the titles related to single-view 3D reconstruction or generation:
+
+"Compress3D: a Compressed Latent Space for 3D Generation from a Single Image"
+"Coarse-to-Fine Implicit Representation Learning for 3D Hand-Object Reconstruction from a Single RGB-D Image"
+"DatasetNeRF: Efficient 3D-aware Data Factory with Generative Radiance Fields"
+"DATENeRF: Depth-Aware Text-based Editing of NeRFs"
+"Diffusion Models are Geometry Critics: Single Image 3D Editing Using Pre-Trained Diffusion Priors"
+"Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions"
+"Diffusion-Generated Pseudo-Observations for High-Quality Sparse-View Reconstruction"
+"DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors"
+"DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation"
+Here are the titles related to single-view 3D reconstruction or generation:
+
+"Compress3D: a Compressed Latent Space for 3D Generation from a Single Image"
+"FAMOUS: High-Fidelity Monocular 3D Human Digitization Using View Synthesis"
+"FRI-Net: Floorplan Reconstruction via Room-wise Implicit Representation"
+"Fast Sprite Decomposition from Animated Graphics"
+"Few-Shot NeRF by Adaptive Rendering Loss Regularization"
+"Flash Cache: Reducing Bias in Radiance Cache Based Inverse Rendering"
+"Free-Editor: Zero-shot Text-driven 3D Scene Editing"
+"GenRC: Generative 3D Room Completion from Sparse Image Collections"
+"Generating 3D House Wireframes with Semantics"
+"Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis"
+"GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image"
+Here are the titles related to single-view 3D reconstruction or generation:
+
+"Hierarchically Structured Neural Bones for Reconstructing Animatable Objects from Casual Videos"
+"High-Fidelity 3D Textured Shapes Generation by Sparse Encoding and Adversarial Decoding"
+"High-Quality Mesh Blendshape Generation from Face Videos via Neural Inverse Rendering"
+"Instant 3D Human Avatar Generation using Image Diffusion Models"
+"IntrinsicAnything: Learning Diffusion Priors for Inverse Rendering Under Unknown Illumination"
+"JointDreamer: Ensuring Geometry Consistency and Text Congruence in Text-to-3D Generation via Joint Score Distillation"
+"Learning 3D-aware GANs from Unposed Images with Template Feature Field"
+"Learning Neural Deformation Representation for 4D Dynamic Shape Generation"
+Here are the titles related to single-view 3D reconstruction or generation:
+
+"Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation"
+"MVDiffHD: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction"
+"Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation"
+"MetaCap: Meta-learning Priors from Multi-View Imagery for Sparse-view Human Performance Capture and Rendering"
+"MinD-3D: Reconstruct High-quality 3D objects in Human Brain"
+"NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation"
+"NVS-Adapter: Plug-and-play Novel View Synthesis from a Single Image"
+Here are the titles related to single-view 3D reconstruction or generation:
+
+"Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation"
+"MVDiffHD: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction"
+"Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation"
+"MetaCap: Meta-learning Priors from Multi-View Imagery for Sparse-view Human Performance Capture and Rendering"
+"MinD-3D: Reconstruct High-quality 3D objects in Human Brain"
+"NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation"
+"NVS-Adapter: Plug-and-play Novel View Synthesis from a Single Image"
+"Real-time 3D-aware Portrait Editing from a Single Image"
+"Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable Repainting"
+Here are the titles related to single-view 3D reconstruction or generation:
+
+"MVDiffHD: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction"
+"Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation"
+"Sketch2Vox: Learning 3D Reconstruction from a Single Monocular Sketch Image"
+"SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion"
+"RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models"
+"ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation"
+"SUP-NeRF: A Streamlined Unification of Pose Estimation and NeRF for Monocular 3D Object Reconstruction"
+"Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts"
+Cancelled

@@ -1,0 +1,231 @@
+"Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text"
+"Voxel Proposal Network via Multi-Frame Knowledge Distillation for Semantic Scene Completion"
+"3D Focusing-and-Matching Network for Multi-Instance Point Cloud Registration"
+"OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding"
+"Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding"
+"OneActor: Consistent Subject Generation via Cluster-Conditioned Guidance"
+"Learning to Decouple the Lights for 3D Face Texture Modeling"
+"Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis"
+"Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication"
+"Key-Grid: Unsupervised 3D Keypoints Detection using Grid Heatmap Features"
+"MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting"
+"LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS"
+"DiffGS: Functional Gaussian Splatting Diffusion"
+"Is Your LiDAR Placement Optimized for 3D Scene Understanding?"
+"Human-3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models"
+"DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features"
+"Learning Unsigned Distance Fields from Local Shape Functions for 3D Surface Reconstruction"
+"AlphaTablets: A Generic Plane Representation for 3D Planar Reconstruction from Monocular Videos"
+"LAM3D: Large Image-Point Clouds Alignment Model for 3D Reconstruction from Single Image"
+"ReplaceAnything3D: Text-Guided Object Replacement in 3D Scenes with Compositional Scene Representations"
+"Score-based 3D Molecule Generation with Neural Fields"
+"Context and Geometry Aware Voxel Transformer for Semantic Scene Completion"
+"Semi-Open 3D Object Retrieval via Hierarchical Equilibrium on Hypergraph"
+"Image2Struct: A Benchmark for Evaluating Vision-Language Models in Extracting Structured Information from Images"
+"Human-Level Shape Inferences: A Benchmark for Evaluating the 3D
+"MVGamba: Unify 3D Content Generation as State Space Sequence Modeling"
+"Learning Interaction-Aware 3D Gaussian Splatting for One-shot Hand Avatars"
+"ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings"
+"Event-3DGS: Event-based 3D Reconstruction Using 3D Gaussian Splatting"
+"3D Structure Prediction of Atomic Systems with Flow-based Direct Preference Optimization"
+"SAM-Guided Masked Token Prediction for 3D Scene Understanding"
+"gRNAde: Geometric Deep Learning for 3D RNA inverse design"
+"MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps"
+"DOGS: Distributed-Oriented Gaussian Splatting for Large-Scale 3D Reconstruction Via Gaussian Consensus"
+"HumanSplat: Generalizable Single-Image Human Gaussian Splatting with Structure Priors"
+"HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting"
+"DiffuBox: Refining 3D Object Detection with Point Diffusion"
+"MeshXL: Neural Coordinate Field for Generative 3D Foundation Models"
+"Architect: Generating Vivid and Interactive 3D Scenes with Hierarchical 2D Inpainting"
+"LiveScene: Language Embedding Interactive Radiance Fields for Physical Scene Control and Rendering"
+"3DCoMPaT200: Language Grounded Large-Scale 3D Vision Dataset for Compositional Recognition"
+"Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials"
+"PointMamba: A Simple State Space Model for Point Cloud Analysis"
+"EfficientCAPER: An End-to-End Framework for Fast and Robust Category-Level Articulated Object Pose Estimation"
+"Generating compositional scenes via Text-to-image RGBA Instance Generation"
+"SCRREAM: SCan, Register, REnder And Map: A Framework for Annotating Accurate and Dense 3D Indoor Scenes with a Benchmark"
+"Dual-Diffusion for Binocular 3D Human Pose Estimation"
+"WildGaussians: 3D Gaussian Splatting In the Wild"
+"Neural Pose Representation Learning for Generating and Transferring Non-Rigid Object Poses"
+"3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors"
+"Learning rigid-body simulators over implicit shapes for large-scale scenes and vision"
+"Tetrahedron Splatting for 3D Generation"
+"Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image"
+"TFS-NeRF: Template-Free NeRF for Semantic 3D Reconstruction of Dynamic Scene"
+"ID-to-3D: Expressive ID-guided 3D Heads via Score Distillation Sampling"
+"3D Gaussian Splatting as Markov Chain Monte Carlo"
+"CAT3D: Create Anything in 3D with Multi-View Diffusion Models"
+"Zero-Shot Scene Reconstruction from Single Images with Deep Prior Assembly"
+"Exploring the trade-off between deep-learning and explainable models for brain-machine interfaces"
+"E2ENet: Dynamic Sparse Feature Fusion for Accurate and Efficient 3D Medical Image Segmentation"
+"PhoCoLens: Photorealistic and Consistent Reconstruction in Lensless Imaging"
+"ContextGS: Compact 3D Gaussian Splatting with Anchor Level Context Model"
+"Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image"
+"Era3D: High-Resolution Multiview Diffusion using Efficient Row-wise Attention"
+"MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing"
+"Generalized Protein Pocket Generation with Prior-Informed Flow Matching"
+"Sample-Efficient Geometry Reconstruction from Euclidean Distances using Non-Convex Optimization"
+"DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos"
+"Vivid-ZOO: Multi-View Video Generation with Diffusion Model"
+"Fast Encoder-Based 3D from Casual Videos via Point Track Processing"
+"Implicit Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes"
+"Learning 3D Equivariant Implicit Function with Patch-Level Pose-Invariant Representation"
+"Reconstructing the Image Stitching Pipeline: Integrating Fusion and Rectangling into a Unified Inpainting Model"
+"Tactile DreamFusion: Exploiting Tactile Sensing for 3D Generation"
+"R
+2
+-Gaussian: Rectifying Radiative Gaussian Splatting for Tomographic Reconstruction"
+"GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation"
+"Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis"
+"SplitNeRF: Split Sum Approximation Neural Field for Joint Geometry, Illumination, and Material Estimation"
+"Learning Variational Temporal Abstraction Embeddings in Option-Induced MDPs"
+"Neural Assets: 3D-Aware Multi-Object Scene Synthesis with Image Diffusion Models"
+"MV2Cyl: Reconstructing 3D Extrusion Cylinders from Multi-View Images"
+"DiffusionBlend: Learning 3D Image Prior through Position-aware Diffusion Score Blending for 3D Computed Tomography Reconstruction"
+"Epipolar-Free 3D Gaussian Splatting for Generalizable Novel View Synthesis"
+"ConceptFactory: Facilitate 3D Object Knowledge Annotation with Object Conceptualization"
+"MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes"
+"Generalizable and Animatable Gaussian Head Avatar"
+"Multi-Object 3D Grounding with Dynamic Modules and Language-Informed Spatial Attention"
+"In-N-Out: Lifting 2D Diffusion Prior for 3D Object Removal via Tuning-Free Latents Alignment"
+"Normal-GS: 3D Gaussian Splatting with Normal-Involved Rendering"
+"FreeSplat: Generalizable 3D Gaussian Splatting Towards Free View Synthesis of Indoor Scenes"
+"FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training"
+"IllumiNeRF: 3D Relighting Without Inverse Rendering"
+"Coherent 3D Scene Diffusion From a Single RGB Image"
+"Physically Compatible 3D Object Modeling from a Single Image"
+"DDGS-CT: Direction-Disentangled Gaussian Splatting for Realistic Volume Rendering"
+"Pedestrian-Centric 3D Pre-collision Pose and Shape Estimation from Dashcam Perspective"
+"ImageNet3D: Towards General-Purpose Object-Level 3D Understanding"
+"Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba"
+"GSDF: 3DGS Meets SDF for Improved Neural Rendering and Reconstruction"
+"Neural Signed Distance Function Inference through Splatting 3D Gaussians Pulled on Zero-Level Set"
+"Spec-Gaussian: Anisotropic View-Dependent Appearance for 3D Gaussian Splatting"
+"Variational Multi-scale Representation for Estimating Uncertainty in 3D Gaussian Splatting"
+"Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer"
+"GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields"
+"RSA: Resolving Scale Ambiguities in Monocular Depth Estimators through Language Descriptions"
+"SS3DM: Benchmarking Street-View Surface Reconstruction with a Synthetic 3D Mesh Dataset"
+"Weakly-Supervised Cortical Surfaces Reconstruction from Brain Ribbon Segmentations"
+"Template-free Articulated Gaussian Splatting for Real-time Reposable Dynamic View Synthesis"
+"GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting"
+"Sparse-view Pose Estimation and Reconstruction via Analysis by Generative Synthesis"
+"MonoMAE: Enhancing Monocular 3D Detection through Depth-Aware Masked Autoencoders"
+"MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model"
+"XMask3D: Cross-modal Mask Reasoning for Open Vocabulary 3D Semantic Segmentation"
+"MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations"
+"Learning 3D Garment Animation from Trajectories of A Piece of Cloth"
+"Dynamic 3D Gaussian Fields for Urban Areas"
+"Unsupervised Homography Estimation on Multimodal Image Pair via Alternating Optimization"
+"GraphCroc: Cross-Correlation Autoencoder for Graph Structural Reconstruction"
+"G2D: From Global to Dense Radiography Representation Learning via Vision-Language Pre-training"
+From the provided titles, these are specifically related to single-view 3D reconstruction or generation:
+
+Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text
+X-Ray: A Sequential 3D Representation For Generation
+
+These papers appear to focus on 3D generation from single inputs (text in Director3D's case, and sequential representation in X-Ray's case).
+
+Note: While there are other papers related to 3D topics (like 3D point clouds, multi-view 3D, etc.), I only included those specifically focused on single-view 3D reconstruction or generation aspects.
+Here are the titles related to single-view 3D reconstruction or generation:
+
+Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text
+X-Ray: A Sequential 3D Representation For Generation
+LCGen: Mining in Low-Certainty Generation for View-consistent Text-to-3D
+Text2CAD: Generating Sequential CAD Designs from Beginner-to-Expert Level Text Prompts
+Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication
+Here are the titles related to single-view 3D reconstruction or generation:
+
+DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features
+Learning Unsigned Distance Fields from Local Shape Functions for 3D Surface Reconstruction
+AlphaTablets: A Generic Plane Representation for 3D Planar Reconstruction from Monocular Videos
+LAM3D: Large Image-Point Clouds Alignment Model for 3D Reconstruction from Single Image
+ReplaceAnything3D: Text-Guided Object Replacement in 3D Scenes with Compositional Scene Representations
+Make-it-Real: Unleashing Large Multimodal Model for Painting 3D Objects with Realistic Materials
+Articulate your NeRF: Unsupervised articulated object modeling via conditional view synthesis
+Score-based 3D molecule generation with neural fields
+Here are the titles related to single-view 3D reconstruction or generation:
+
+MVGamba: Unify 3D Content Generation as State Space Sequence Modeling
+SceneCraft: Layout-Guided 3D Scene Generation
+ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings
+Training an Open-Vocabulary Monocular 3D Detection Model without 3D Data
+Event-3DGS: Event-based 3D Reconstruction Using 3D Gaussian Splatting
+Multi-hypotheses Conditioned Point Cloud Diffusion for 3D Human Reconstruction from Occluded Images
+SAM-Guided Masked Token Prediction for 3D Scene Understanding
+Cancelled
+Cancelled
+Here are the titles related to single-view 3D reconstruction or generation:
+
+Neural Pose Representation Learning for Generating and Transferring Non-Rigid Object Poses
+SyntheOcc: Synthesize Geometric-Controlled Street View Images through 3D Semantic MPIs
+Tetrahedron Splatting for 3D Generation
+DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering
+L4GM: Large 4D Gaussian Reconstruction Model
+Here are the titles related to single-view 3D reconstruction or generation:
+
+PhyRecon: Physically Plausible Neural Scene Reconstruction
+ImO
+Here are the titles related to single-view 3D reconstruction or generation:
+
+PhyRecon: Physically Plausible Neural Scene Reconstruction
+Zero-Shot Scene Reconstruction from Single Images with Deep Prior Assembly
+Depth Anywhere: Enhancing 360 Monocular Depth Estimation via Perspective Distillation and Unlabeled Data Augmentation
+Neural Localizer Fields for Continuous 3D Human Pose and Shape Estimation
+ID-to-3D: Expressive ID-guided 3D Heads via Score Distillation Sampling
+Dual Encoder GAN Inversion for High-Fidelity 3D Head Reconstruction from Single Images
+UniSDF: Unifying Neural Representations for High-Fidelity 3D Reconstruction of Complex Scenes with Reflections
+Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
+Here are the titles related to single-view 3D reconstruction or generation:
+
+Depth Anywhere: Enhancing 360 Monocular Depth Estimation via Perspective Distillation and Unlabeled Data Augmentation
+DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos
+Sample-Efficient Geometry Reconstruction from Euclidean Distances using Non-Convex Optimization
+VCR-GauS: View Consistent Depth-Normal Regularizer for Gaussian Surface Reconstruction
+Implicit Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes
+Fast Encoder-Based 3D from Casual Videos via Point Track Processing
+Learning 3D Equivariant Implicit Function with Patch-Level Pose-Invariant Representation
+Here are the titles related to single-view 3D reconstruction or generation:
+
+SC3D: Self-conditioned Generative Gaussian Model with 3D-aware Feedback
+Depth Anything V2
+UniDSeg: Unified Cross-Domain 3D Semantic Segmentation via Visual Foundation Models Prior
+A Unified Framework for 3D Scene Understanding
+GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation
+Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis
+Grid4D: 4D Decomposed Hash Encoding for High-Fidelity Dynamic Gaussian Splatting
+Tactile DreamFusion: Exploiting Tactile Sensing for 3D Generation
+R²-Gaussian: Rectifying Radiative Gaussian Splatting for Tomographic Reconstruction
+Cancelled
+Here are the titles related to single-view 3D reconstruction or generation:
+
+DC-Gaussian: Improving 3D Gaussian Splatting for Reflective Dash Cam Videos
+Normal-GS: 3D Gaussian Splatting with Normal-Involved Rendering
+LP-3DGS: Learning to Prune 3D Gaussian Splatting
+Physically Compatible 3D Object Modeling from a Single Image
+IllumiNeRF: 3D Relighting Without Inverse Rendering
+From Chaos to Clarity: 3DGS in the Dark
+Coherent 3D Scene Diffusion From a Single RGB Image
+FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training
+NeCGS: Neural Compression for 3D Geometry Sets
+FreeSplat: Generalizable 3D Gaussian Splatting Towards Free View Synthesis of Indoor Scenes
+DDGS-CT: Direction-Disentangled Gaussian Splatting for Realistic Volume Rendering
+Here are the titles related to single-view 3D reconstruction or generation:
+
+Rad-NeRF: Ray-decoupled Training of Neural Radiance Field
+Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba
+Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis
+ImageNet3D: Towards General-Purpose Object-Level 3D Understanding
+Di²Pose: Discrete Diffusion Model for Occluded 3D Human Pose Estimation
+Spec-Gaussian: Anisotropic View-Dependent Appearance for 3D Gaussian Splatting
+GSDF: 3DGS Meets SDF for Improved Neural Rendering and Reconstruction
+Neural Signed Distance Function Inference through Splatting 3D Gaussians Pulled on Zero-Level Set
+Here are the titles related to single-view 3D reconstruction or generation:
+
+GenWarp: Single Image to Novel Views with Semantic-Preserving Generative Warping
+DeBaRA: Denoising-Based 3D Room Arrangement Generation
+Chat-Scene: Bridging 3D Scene and Large Language Models with Object Identifiers
+GSGAN: Adversarial Learning for Hierarchical Generation of 3D Gaussian Splats
+Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer
+Cancelled
+None of these titles appear to be specifically related to single-view 3D reconstruction or generation.

@@ -1,0 +1,123 @@
+'(Just) A Spoonful of Refinements Helps the Registration Error Go Down'
+'3D Building Reconstruction From Monocular Remote Sensing Images'
+'3D Shape Generation and Completion Through Point-Voxel Diffusion'
+'3DIAS: 3D Shape Reconstruction With Implicit Algebraic Surfaces'
+'3DStyleNet: Creating 3D Shapes With Geometric and Texture Style Variations'
+'Common Objects in 3D: Large-Scale Learning and Evaluation of Real-Life 3D Category Reconstruction'
+'CodeNeRF: Disentangled Neural Radiance Fields for Object Categories'
+'Building-GAN: Graph-Conditioned Architectural Volumetric Design Generation'
+'AutoShape: Real-Time Shape-Aware Monocular 3D Object Detection'
+'BARF: Bundle-Adjusting Neural Radiance Fields'
+'Conditional Variational Capsule Network for Open Set Recognition'
+'Deep 3D Mask Volume for View Synthesis of Dynamic Scenes'
+'Deep Hybrid Self-Prior for Full 3D Mesh Generation'
+'Deep Implicit Surface Point Prediction Networks'
+'DensePose 3D: Lifting Canonical Surface Maps of Articulated Objects to the Third Dimension'
+'Discovering 3D Parts From Image Collections'
+'Dynamic Surface Function Networks for Clothed Human Bodies'
+'EM-POSE: 3D Human Pose Estimation From Sparse Electromagnetic Trackers'
+'EPP-MVSNet: Epipolar-Assembling Based Depth Prediction for Multi-View Stereo'
+'Full-Duplex Strategy for Video Object Segmentation'
+'GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds'
+'GRF: Learning a General Radiance Field for 3D Representation and Rendering'
+'Geometry-Based Distance Decomposition for Monocular 3D Object Detection'
+'Group-Free 3D Object Detection via Transformers'
+'H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction'
+'I2UV-HandNet: Image-to-UV Prediction Network for Accurate and High-Fidelity 3D Hand Mesh Modeling'
+'In-the-Wild Single Camera 3D Reconstruction Through Moving Water Surfaces'
+'Learning Signed Distance Field for Multi-View Surface Reconstruction'
+'MINE: Towards Continuous Depth MPI With NeRF for Novel View Synthesis'
+'MVSNeRF: Fast Generalizable Radiance Field Reconstruction From Multi-View Stereo'
+'Meta-Aggregator: Learning To Aggregate for 1-Bit Graph Neural Networks'
+'MonoIndoor: Towards Good Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments'
+'Monocular, One-Stage, Regression of Multiple 3D People'
+'NPMs: Neural Parametric Models for 3D Deformable Shapes'
+'Neural Articulated Radiance Field'
+'Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video'
+'PixelSynth: Generating a 3D-Consistent Experience From a Single Image'
+'PlaneTR: Structure-Guided Transformers for 3D Plane Recovery'
+'Probabilistic Monocular 3D Human Pose Estimation With Normalizing Flows'
+'Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis'
+'Revitalizing Optimization for 3D Human Pose and Shape Estimation: A Sparse Constrained Formulation'
+'RetrievalFuse: Neural 3D Scene Reconstruction With a Database'
+'SLIDE: Single Image 3D Photography With Soft Layering and Depth-Aware Inpainting'
+'Single Image 3D Shape Retrieval via Cross-Modal Instance and Category Contrastive Learning'
+'Single View Physical Distance Estimation Using Human Pose'
+'Sketch2Mesh: Reconstructing and Editing 3D Shapes From Sketches'
+'Toward Realistic Single-View 3D Object Reconstruction With Unsupervised Learning From Multiple Images'
+'Towards Accurate Alignment in Real-Time 3D Hand-Mesh Reconstruction'
+'Unsupervised 3D Pose Estimation for Hierarchical Dance Video Recognition'
+'UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction'
+'Unsupervised Depth Completion With Calibrated Backprojection Layers'
+'Unsupervised Learning of Fine Structure Generation for 3D Point Clouds by 2D Projections Matching'
+'ViewNet: Unsupervised Viewpoint Estimation From Conditional Generation'
+'Worldsheet: Wrapping the World in a 3D Sheet for View Synthesis From a Single Image'
+'Where2Act: From Pixels to Actions for Articulated 3D Objects'
+'imGHUM: Implicit Generative Models of 3
+Here are the titles specifically related to single-view 3D reconstruction or generation:
+
+"3D Building Reconstruction From Monocular Remote Sensing Images"
+"3D Shape Generation and Completion Through Point-Voxel Diffusion"
+"3DIAS: 3D Shape Reconstruction With Implicit Algebraic Surfaces"
+"A Confidence-Based Iterative Solver of Depths and Surface Normals for Deep Multi-View Stereo"
+"AutoShape: Real-Time Shape-Aware Monocular 3D Object Detection"
+"Boosting Monocular Depth Estimation With Lightweight 3D Point Fusion"
+"Can Scale-Consistent Monocular Depth Be Learned in a Self-Supervised Scale-Invariant Manner?"
+
+These papers specifically deal with reconstructing or generating 3D content from single-view/monocular inputs.
+Here are the titles specifically related to single-view 3D reconstruction or generation:
+
+"Deep Hybrid Self-Prior for Full 3D Mesh Generation"
+"Deep Implicit Surface Point Prediction Networks"
+"DeepCAD: A Deep Generative Network for Computer-Aided Design Models"
+"Discovering 3D Parts From Image Collections"
+"Dynamic Surface Function Networks for Clothed Human Bodies"
+"Dynamic View Synthesis From Dynamic Monocular Video"
+"ELLIPSDF: Joint Object Pose and Shape Optimization With a Bi-Level Ellipsoid and Signed Distance Function Description"
+"Editing Conditional Radiance Fields"
+"Free-Form Description Guided 3D Visual Graph Network for Object Grounding in Point Cloud"
+"Full-Body Motion From a Single Head-Mounted Device: Generating SMPL Poses From Partial Observations"
+"GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds"
+"GNeRF: GAN-Based Neural Radiance Field Without Posed Camera"
+"GRF: Learning a General Radiance Field for 3D Representation and Rendering"
+"Geometric Granularity Aware Pixel-To-Mesh"
+"Geometry-Free View Synthesis: Transformers and No 3D Priors"
+"Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs"
+Here are the titles specifically related to single-view 3D reconstruction or generation:
+
+"H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction"
+"HandFoldingNet: A 3D Hand Pose Estimation Network Using Multiscale-Feature Guided Folding of a 2D Hand Skeleton"
+"Hierarchical Kinematic Probability Distributions for 3D Human Shape and Pose Estimation From Images in the Wild"
+"I2UV-HandNet: Image-to-UV Prediction Network for Accurate and High-Fidelity 3D Hand Mesh Modeling"
+"Learning Anchored Unsigned Distance Functions With Gradient Direction Alignment for Single-View Garment Reconstruction"
+"Learning Canonical 3D Object Representation for Fine-Grained Recognition"
+"Learning Canonical View Representation for 3D Shape Recognition With Arbitrary Views"
+"Learning Generative Models of Textured 3D Meshes From Real-World Images"
+"Learning Realistic Human Reposing Using Cyclic Self-Supervision With 3D Shape, Pose, and Appearance Consistency"
+"Learning Signed Distance Field for Multi-View Surface Reconstruction"
+"M3D-VTON: A Monocular-to-3D Virtual Try-On Network"
+"ME-PCN: Point Completion Conditioned on Mask Emptiness"
+Here are the titles specifically related to single-view 3D reconstruction or generation:
+
+"PARE: Part Attention Regressor for 3D Human Body Estimation"
+"Patch2CAD: Patchwise Embedding Learning for In-the-Wild Shape Retrieval From a Single Image"
+"PlaneTR: Structure-Guided Transformers for 3D Plane Recovery"
+"PixelSynth: Generating a 3D-Consistent Experience From a Single Image"
+"Planar Surface Reconstruction From Sparse Views"
+"Probabilistic Monocular 3D Human Pose Estimation With Normalizing Flows"
+"Probabilistic Modeling for Human Mesh Recovery"
+"PyMAF: 3D Human Pose and Shape Regression With Pyramidal Mesh Alignment Feedback Loop"
+"Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis"
+"R-MSFM: Recurrent Multi-Scale Feature Modulation for Monocular Depth Estimating"
+"Revitalizing Optimization for 3D Human Pose and Shape Estimation: A Sparse Constrained Formulation"
+Here are the titles specifically related to single-view 3D reconstruction or generation:
+
+"SLIDE: Single Image 3D Photography With Soft Layering and Depth-Aware Inpainting"
+"Self-Supervised 3D Face Reconstruction via Conditional Estimation"
+"Single Image 3D Shape Retrieval via Cross-Modal Instance and Category Contrastive Learning"
+"Sketch2Mesh: Reconstructing and Editing 3D Shapes From Sketches"
+"Toward Realistic Single-View 3D Object Reconstruction With Unsupervised Learning From Multiple Images"
+Here are the titles specifically related to single-view 3D reconstruction or generation:
+
+"Unsupervised Learning of Fine Structure Generation for 3D Point Clouds by 2D Projections Matching"
+"ViewNet: Unsupervised Viewpoint Estimation From

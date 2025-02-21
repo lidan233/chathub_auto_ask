@@ -1,0 +1,7 @@
+"CharacterGen: Efficient 3D Character Generation From Single Images With Multi-view Pose Canonicalization"
+"Part123: Part-aware 3D Reconstruction From a Single-view Image"
+"NeurCADRecon: Neural Representation for Reconstructing CAD Surfaces by Enforcing Zero Gaussian Curvature"
+Here are the titles specifically related to single-view 3D reconstruction or generation:
+
+CharacterGen: Efficient 3D Character Generation From Single Images With Multi-view Pose Canonicalization
+Part

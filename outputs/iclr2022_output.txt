@@ -1,0 +1,1436 @@
+Cancelled
+After analyzing all the titles, only these titles are directly related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+Cancelled
+After analyzing all the titles, only these titles are directly related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+Cancelled
+After analyzing all the titles, only these titles are directly related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+Cancelled
+After analyzing all the titles, only these titles are directly related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+Cancelled
+After analyzing all the titles, only these titles are directly related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+Cancelled
+After analyzing all the titles, only these titles are directly related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+Cancelled
+After analyzing all the titles, only these titles are directly related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+Cancelled
+After analyzing all the titles, only these titles are directly related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+Cancelled
+After analyzing all the titles, only these titles are directly related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+Cancelled
+After analyzing all the titles, only these titles are directly related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+Cancelled
+After analyzing all the titles, only these titles are directly related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+Cancelled
+After analyzing all the titles, only these titles are directly related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+"Deformable Capsules for Object Detection"
+"A 3D Convolutional Neural Network for Predicting Wildfire Profiles"
+"Depth Completion using Plane-Residual Representation"
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"Transformers for Modeling Physical Systems"
+"LayoutTransformer: Relation-Aware Scene Layout Generation"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Symmetry-Aware Actor-Critic for 3D Molecular Design"
+"A Hypergradient Approach to Robust Regression without Correspondence"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+"Learning Mesh-Based Simulation with Graph Networks"
+"Optimization Planning for 3D ConvNets"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"GENERATIVE MODEL-ENHANCED HUMAN MOTION PREDICTION"
+"Compositional Video Synthesis with Action Graphs"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Plan Optimistically: Uncertainty-Guided Deep Exploration via Latent Model Ensembles"
+"Sim2SG: Sim-to-Real Scene Graph Generation for Transfer Learning"
+"Improving Model Robustness with Latent Distribution Locally and Globally"
+None of the titles are highly related to the field of 3D reconstruction or generation.
+"Crystal Diffusion Variational Autoencoder for Periodic Material Generation"
+"Learning Global Spatial Information for Multi-View Object-Centric Models"
+"Generative Modeling with Optimal Transport Maps"
+After analyzing all titles, here are the ones related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+
+These two papers appear to be directly related to 3D representation/reconstruction. While there are other papers dealing with various aspects of deep learning, computer vision, and neural networks, these are the ones specifically focused on 3D-related tasks.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+
+These three titles appear to be specifically focused on 3D-related tasks or representations.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Depth Completion using Plane-Residual Representation"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"On the Adversarial Robustness of 3D Point Cloud Classification"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"Pre-Training by Completing Point Clouds"
+"ATOM3D: Tasks On Molecules in Three Dimensions"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"Conformation-Guided Molecular Representation with Hamiltonian Neural Networks"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Deep Convolution for Irregularly Sampled Temporal Point Clouds"
+"Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+After analyzing the titles, none of them are directly related to 3D reconstruction or generation.
+Cancelled
+Concentric Spherical GNN for 3D Representation Learning
+3D Scene Compression through Entropy Penalized Neural Representation Functions
+Learning Hyperbolic Representations for Unsupervised 3D Segmentation
+Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth
+Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF
+On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes
+A 3D Convolutional Neural Network for Predicting Wildfire Profiles
+GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
+Depth Completion using Plane-Residual Representation
+Symmetry-Aware Actor-Critic for 3D Molecular Design
+Learning to Generate 3D Shapes with Generative Cellular Automata
+Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis
+Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders
+Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering
+There are no titles in the list related to 3D reconstruction or generation.
+Safe Deep RL in 3D Environments using Human Feedback
+Representation-Agnostic Shape Fields
+A New Perspective on Fluid Simulation: An Image-to-Image Translation Task via Neural Networks
+Efficient Point Transformer for Large-scale 3D Scene Understanding
+Simple GNN Regularisation for 3D Molecular Property Prediction and Beyond
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+"Deformable Capsules for Object Detection"
+"A 3D Convolutional Neural Network for Predicting Wildfire Profiles"
+"Depth Completion using Plane-Residual Representation"
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"Transformers for Modeling Physical Systems"
+"LayoutTransformer: Relation-Aware Scene Layout Generation"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Symmetry-Aware Actor-Critic for 3D Molecular Design"
+"A Hypergradient Approach to Robust Regression without Correspondence"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+"Learning Mesh-Based Simulation with Graph Networks"
+"Optimization Planning for 3D ConvNets"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"GENERATIVE MODEL-ENHANCED HUMAN MOTION PREDICTION"
+"Compositional Video Synthesis with Action Graphs"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Plan Optimistically: Uncertainty-Guided Deep Exploration via Latent Model Ensembles"
+"Sim2SG: Sim-to-Real Scene Graph Generation for Transfer Learning"
+"Improving Model Robustness with Latent Distribution Locally and Globally"
+None of the titles are highly related to the field of 3D reconstruction or generation.
+"Crystal Diffusion Variational Autoencoder for Periodic Material Generation"
+"Learning Global Spatial Information for Multi-View Object-Centric Models"
+"Generative Modeling with Optimal Transport Maps"
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Towards Robust Point Cloud Models with Context-Consistency Network and Adaptive Augmentation"
+"Generating Realistic Physical Adversarial Examples by Patch Transformer Network"
+After analyzing all titles, here are the ones related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+
+These two papers appear to be directly related to 3D representation/reconstruction. While there are other papers dealing with various aspects of deep learning, computer vision, and neural networks, these are the ones specifically focused on 3D-related tasks.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+
+These three titles appear to be specifically focused on 3D-related tasks or representations.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Depth Completion using Plane-Residual Representation"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"On the Adversarial Robustness of 3D Point Cloud Classification"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"Pre-Training by Completing Point Clouds"
+"ATOM3D: Tasks On Molecules in Three Dimensions"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"Conformation-Guided Molecular Representation with Hamiltonian Neural Networks"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Deep Convolution for Irregularly Sampled Temporal Point Clouds"
+"Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+After analyzing the titles, none of them are directly related to 3D reconstruction or generation.
+Cancelled
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"
+Concentric Spherical GNN for 3D Representation Learning
+3D Scene Compression through Entropy Penalized Neural Representation Functions
+Learning Hyperbolic Representations for Unsupervised 3D Segmentation
+Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth
+Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF
+On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes
+A 3D Convolutional Neural Network for Predicting Wildfire Profiles
+GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
+Depth Completion using Plane-Residual Representation
+Symmetry-Aware Actor-Critic for 3D Molecular Design
+Learning to Generate 3D Shapes with Generative Cellular Automata
+Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis
+Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders
+Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering
+There are no titles in the list related to 3D reconstruction or generation.
+Safe Deep RL in 3D Environments using Human Feedback
+Representation-Agnostic Shape Fields
+A New Perspective on Fluid Simulation: An Image-to-Image Translation Task via Neural Networks
+Efficient Point Transformer for Large-scale 3D Scene Understanding
+Simple GNN Regularisation for 3D Molecular Property Prediction and Beyond
+Adaptive Wavelet Transformer Network for 3D Shape Representation Learning
+3D-Transformer: Molecular Representation with Transformer in 3D Space
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+"Deformable Capsules for Object Detection"
+"A 3D Convolutional Neural Network for Predicting Wildfire Profiles"
+"Depth Completion using Plane-Residual Representation"
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"Transformers for Modeling Physical Systems"
+"LayoutTransformer: Relation-Aware Scene Layout Generation"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Symmetry-Aware Actor-Critic for 3D Molecular Design"
+"A Hypergradient Approach to Robust Regression without Correspondence"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+"Learning Mesh-Based Simulation with Graph Networks"
+"Optimization Planning for 3D ConvNets"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"GENERATIVE MODEL-ENHANCED HUMAN MOTION PREDICTION"
+"Compositional Video Synthesis with Action Graphs"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Plan Optimistically: Uncertainty-Guided Deep Exploration via Latent Model Ensembles"
+"Sim2SG: Sim-to-Real Scene Graph Generation for Transfer Learning"
+"Improving Model Robustness with Latent Distribution Locally and Globally"
+None of the titles are highly related to the field of 3D reconstruction or generation.
+"Crystal Diffusion Variational Autoencoder for Periodic Material Generation"
+"Learning Global Spatial Information for Multi-View Object-Centric Models"
+"Generative Modeling with Optimal Transport Maps"
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Towards Robust Point Cloud Models with Context-Consistency Network and Adaptive Augmentation"
+"Generating Realistic Physical Adversarial Examples by Patch Transformer Network"
+After analyzing all titles, here are the ones related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+
+These two papers appear to be directly related to 3D representation/reconstruction. While there are other papers dealing with various aspects of deep learning, computer vision, and neural networks, these are the ones specifically focused on 3D-related tasks.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+
+These three titles appear to be specifically focused on 3D-related tasks or representations.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Depth Completion using Plane-Residual Representation"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"On the Adversarial Robustness of 3D Point Cloud Classification"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"Pre-Training by Completing Point Clouds"
+"ATOM3D: Tasks On Molecules in Three Dimensions"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"Conformation-Guided Molecular Representation with Hamiltonian Neural Networks"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Deep Convolution for Irregularly Sampled Temporal Point Clouds"
+"Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+After analyzing the titles, none of them are directly related to 3D reconstruction or generation.
+Cancelled
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with
+Concentric Spherical GNN for 3D Representation Learning
+3D Scene Compression through Entropy Penalized Neural Representation Functions
+Learning Hyperbolic Representations for Unsupervised 3D Segmentation
+Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth
+Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF
+On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes
+A 3D Convolutional Neural Network for Predicting Wildfire Profiles
+GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
+Depth Completion using Plane-Residual Representation
+Symmetry-Aware Actor-Critic for 3D Molecular Design
+Learning to Generate 3D Shapes with Generative Cellular Automata
+Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis
+Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders
+Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering
+There are no titles in the list related to 3D reconstruction or generation.
+Safe Deep RL in 3D Environments using Human Feedback
+Representation-Agnostic Shape Fields
+A New Perspective on Fluid Simulation: An Image-to-Image Translation Task via Neural Networks
+Efficient Point Transformer for Large-scale 3D Scene Understanding
+Simple GNN Regularisation for 3D Molecular Property Prediction and Beyond
+Adaptive Wavelet Transformer Network for 3D Shape Representation Learning
+3D-Transformer: Molecular Representation with Transformer in 3D Space
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+"Deformable Capsules for Object Detection"
+"A 3D Convolutional Neural Network for Predicting Wildfire Profiles"
+"Depth Completion using Plane-Residual Representation"
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"Transformers for Modeling Physical Systems"
+"LayoutTransformer: Relation-Aware Scene Layout Generation"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Symmetry-Aware Actor-Critic for 3D Molecular Design"
+"A Hypergradient Approach to Robust Regression without Correspondence"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+"Learning Mesh-Based Simulation with Graph Networks"
+"Optimization Planning for 3D ConvNets"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"GENERATIVE MODEL-ENHANCED HUMAN MOTION PREDICTION"
+"Compositional Video Synthesis with Action Graphs"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Plan Optimistically: Uncertainty-Guided Deep Exploration via Latent Model Ensembles"
+"Sim2SG: Sim-to-Real Scene Graph Generation for Transfer Learning"
+"Improving Model Robustness with Latent Distribution Locally and Globally"
+None of the titles are highly related to the field of 3D reconstruction or generation.
+"Crystal Diffusion Variational Autoencoder for Periodic Material Generation"
+"Learning Global Spatial Information for Multi-View Object-Centric Models"
+"Generative Modeling with Optimal Transport Maps"
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Towards Robust Point Cloud Models with Context-Consistency Network and Adaptive Augmentation"
+"Generating Realistic Physical Adversarial Examples by Patch Transformer Network"
+After analyzing all titles, here are the ones related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+
+These two papers appear to be directly related to 3D representation/reconstruction. While there are other papers dealing with various aspects of deep learning, computer vision, and neural networks, these are the ones specifically focused on 3D-related tasks.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+
+These three titles appear to be specifically focused on 3D-related tasks or representations.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Depth Completion using Plane-Residual Representation"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"On the Adversarial Robustness of 3D Point Cloud Classification"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"Pre-Training by Completing Point Clouds"
+"ATOM3D: Tasks On Molecules in Three Dimensions"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"Conformation-Guided Molecular Representation with Hamiltonian Neural Networks"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Deep Convolution for Irregularly Sampled Temporal Point Clouds"
+"Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+After analyzing the titles, none of them are directly related to 3D reconstruction or generation.
+Cancelled
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Generating
+Concentric Spherical GNN for 3D Representation Learning
+3D Scene Compression through Entropy Penalized Neural Representation Functions
+Learning Hyperbolic Representations for Unsupervised 3D Segmentation
+Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth
+Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF
+On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes
+A 3D Convolutional Neural Network for Predicting Wildfire Profiles
+GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
+Depth Completion using Plane-Residual Representation
+Symmetry-Aware Actor-Critic for 3D Molecular Design
+Learning to Generate 3D Shapes with Generative Cellular Automata
+Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis
+Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders
+Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering
+There are no titles in the list related to 3D reconstruction or generation.
+Safe Deep RL in 3D Environments using Human Feedback
+Representation-Agnostic Shape Fields
+A New Perspective on Fluid Simulation: An Image-to-Image Translation Task via Neural Networks
+Efficient Point Transformer for Large-scale 3D Scene Understanding
+Simple GNN Regularisation for 3D Molecular Property Prediction and Beyond
+Adaptive Wavelet Transformer Network for 3D Shape Representation Learning
+3D-Transformer: Molecular Representation with Transformer in 3D Space
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+"Deformable Capsules for Object Detection"
+"A 3D Convolutional Neural Network for Predicting Wildfire Profiles"
+"Depth Completion using Plane-Residual Representation"
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"Transformers for Modeling Physical Systems"
+"LayoutTransformer: Relation-Aware Scene Layout Generation"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Symmetry-Aware Actor-Critic for 3D Molecular Design"
+"A Hypergradient Approach to Robust Regression without Correspondence"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+"Learning Mesh-Based Simulation with Graph Networks"
+"Optimization Planning for 3D ConvNets"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"GENERATIVE MODEL-ENHANCED HUMAN MOTION PREDICTION"
+"Compositional Video Synthesis with Action Graphs"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Plan Optimistically: Uncertainty-Guided Deep Exploration via Latent Model Ensembles"
+"Sim2SG: Sim-to-Real Scene Graph Generation for Transfer Learning"
+"Improving Model Robustness with Latent Distribution Locally and Globally"
+None of the titles are highly related to the field of 3D reconstruction or generation.
+"Crystal Diffusion Variational Autoencoder for Periodic Material Generation"
+"Learning Global Spatial Information for Multi-View Object-Centric Models"
+"Generative Modeling with Optimal Transport Maps"
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Towards Robust Point Cloud Models with Context-Consistency Network and Adaptive Augmentation"
+"Generating Realistic Physical Adversarial Examples by Patch Transformer Network"
+After analyzing all titles, here are the ones related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+
+These two papers appear to be directly related to 3D representation/reconstruction. While there are other papers dealing with various aspects of deep learning, computer vision, and neural networks, these are the ones specifically focused on 3D-related tasks.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+
+These three titles appear to be specifically focused on 3D-related tasks or representations.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Depth Completion using Plane-Residual Representation"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"On the Adversarial Robustness of 3D Point Cloud Classification"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"Pre-Training by Completing Point Clouds"
+"ATOM3D: Tasks On Molecules in Three Dimensions"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"Conformation-Guided Molecular Representation with Hamiltonian Neural Networks"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Deep Convolution for Irregularly Sampled Temporal Point Clouds"
+"Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+After analyzing the titles, none of them are directly related to 3D reconstruction or generation.
+Cancelled
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Generating Novel Scene Compositions from Single Images and Videos"
+"
+Concentric Spherical GNN for 3D Representation Learning
+3D Scene Compression through Entropy Penalized Neural Representation Functions
+Learning Hyperbolic Representations for Unsupervised 3D Segmentation
+Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth
+Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF
+On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes
+A 3D Convolutional Neural Network for Predicting Wildfire Profiles
+GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
+Depth Completion using Plane-Residual Representation
+Symmetry-Aware Actor-Critic for 3D Molecular Design
+Learning to Generate 3D Shapes with Generative Cellular Automata
+Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis
+Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders
+Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering
+There are no titles in the list related to 3D reconstruction or generation.
+Safe Deep RL in 3D Environments using Human Feedback
+Representation-Agnostic Shape Fields
+A New Perspective on Fluid Simulation: An Image-to-Image Translation Task via Neural Networks
+Efficient Point Transformer for Large-scale 3D Scene Understanding
+Simple GNN Regularisation for 3D Molecular Property Prediction and Beyond
+Adaptive Wavelet Transformer Network for 3D Shape Representation Learning
+3D-Transformer: Molecular Representation with Transformer in 3D Space
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+"Deformable Capsules for Object Detection"
+"A 3D Convolutional Neural Network for Predicting Wildfire Profiles"
+"Depth Completion using Plane-Residual Representation"
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"Transformers for Modeling Physical Systems"
+"LayoutTransformer: Relation-Aware Scene Layout Generation"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Symmetry-Aware Actor-Critic for 3D Molecular Design"
+"A Hypergradient Approach to Robust Regression without Correspondence"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+"Learning Mesh-Based Simulation with Graph Networks"
+"Optimization Planning for 3D ConvNets"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"GENERATIVE MODEL-ENHANCED HUMAN MOTION PREDICTION"
+"Compositional Video Synthesis with Action Graphs"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Plan Optimistically: Uncertainty-Guided Deep Exploration via Latent Model Ensembles"
+"Sim2SG: Sim-to-Real Scene Graph Generation for Transfer Learning"
+"Improving Model Robustness with Latent Distribution Locally and Globally"
+None of the titles are highly related to the field of 3D reconstruction or generation.
+"Crystal Diffusion Variational Autoencoder for Periodic Material Generation"
+"Learning Global Spatial Information for Multi-View Object-Centric Models"
+"Generative Modeling with Optimal Transport Maps"
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Towards Robust Point Cloud Models with Context-Consistency Network and Adaptive Augmentation"
+"Generating Realistic Physical Adversarial Examples by Patch Transformer Network"
+After analyzing all titles, here are the ones related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+
+These two papers appear to be directly related to 3D representation/reconstruction. While there are other papers dealing with various aspects of deep learning, computer vision, and neural networks, these are the ones specifically focused on 3D-related tasks.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+
+These three titles appear to be specifically focused on 3D-related tasks or representations.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Depth Completion using Plane-Residual Representation"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"On the Adversarial Robustness of 3D Point Cloud Classification"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"Pre-Training by Completing Point Clouds"
+"ATOM3D: Tasks On Molecules in Three Dimensions"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"Conformation-Guided Molecular Representation with Hamiltonian Neural Networks"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Deep Convolution for Irregularly Sampled Temporal Point Clouds"
+"Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+After analyzing the titles, none of them are directly related to 3D reconstruction or generation.
+Cancelled
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Generating Novel Scene Compositions from Single Images and Videos"
+"Latent Image Animator: Learning to Animate Images via Latent Space
+Concentric Spherical GNN for 3D Representation Learning
+3D Scene Compression through Entropy Penalized Neural Representation Functions
+Learning Hyperbolic Representations for Unsupervised 3D Segmentation
+Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth
+Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF
+On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes
+A 3D Convolutional Neural Network for Predicting Wildfire Profiles
+GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
+Depth Completion using Plane-Residual Representation
+Symmetry-Aware Actor-Critic for 3D Molecular Design
+Learning to Generate 3D Shapes with Generative Cellular Automata
+Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis
+Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders
+Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering
+There are no titles in the list related to 3D reconstruction or generation.
+Safe Deep RL in 3D Environments using Human Feedback
+Representation-Agnostic Shape Fields
+A New Perspective on Fluid Simulation: An Image-to-Image Translation Task via Neural Networks
+Efficient Point Transformer for Large-scale 3D Scene Understanding
+Simple GNN Regularisation for 3D Molecular Property Prediction and Beyond
+Adaptive Wavelet Transformer Network for 3D Shape Representation Learning
+3D-Transformer: Molecular Representation with Transformer in 3D Space
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+"Deformable Capsules for Object Detection"
+"A 3D Convolutional Neural Network for Predicting Wildfire Profiles"
+"Depth Completion using Plane-Residual Representation"
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"Transformers for Modeling Physical Systems"
+"LayoutTransformer: Relation-Aware Scene Layout Generation"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Symmetry-Aware Actor-Critic for 3D Molecular Design"
+"A Hypergradient Approach to Robust Regression without Correspondence"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+"Learning Mesh-Based Simulation with Graph Networks"
+"Optimization Planning for 3D ConvNets"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"GENERATIVE MODEL-ENHANCED HUMAN MOTION PREDICTION"
+"Compositional Video Synthesis with Action Graphs"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Plan Optimistically: Uncertainty-Guided Deep Exploration via Latent Model Ensembles"
+"Sim2SG: Sim-to-Real Scene Graph Generation for Transfer Learning"
+"Improving Model Robustness with Latent Distribution Locally and Globally"
+None of the titles are highly related to the field of 3D reconstruction or generation.
+"Crystal Diffusion Variational Autoencoder for Periodic Material Generation"
+"Learning Global Spatial Information for Multi-View Object-Centric Models"
+"Generative Modeling with Optimal Transport Maps"
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Towards Robust Point Cloud Models with Context-Consistency Network and Adaptive Augmentation"
+"Generating Realistic Physical Adversarial Examples by Patch Transformer Network"
+After analyzing all titles, here are the ones related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+
+These two papers appear to be directly related to 3D representation/reconstruction. While there are other papers dealing with various aspects of deep learning, computer vision, and neural networks, these are the ones specifically focused on 3D-related tasks.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+
+These three titles appear to be specifically focused on 3D-related tasks or representations.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Depth Completion using Plane-Residual Representation"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"On the Adversarial Robustness of 3D Point Cloud Classification"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"Pre-Training by Completing Point Clouds"
+"ATOM3D: Tasks On Molecules in Three Dimensions"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"Conformation-Guided Molecular Representation with Hamiltonian Neural Networks"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Deep Convolution for Irregularly Sampled Temporal Point Clouds"
+"Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+After analyzing the titles, none of them are directly related to 3D reconstruction or generation.
+Cancelled
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Generating Novel Scene Compositions from Single Images and Videos"
+"Latent Image Animator: Learning to Animate Images via Latent Space Navigation"
+Concentric Spherical GNN for 3D Representation Learning
+3D Scene Compression through Entropy Penalized Neural Representation Functions
+Learning Hyperbolic Representations for Unsupervised 3D Segmentation
+Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth
+Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF
+On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes
+A 3D Convolutional Neural Network for Predicting Wildfire Profiles
+GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
+Depth Completion using Plane-Residual Representation
+Symmetry-Aware Actor-Critic for 3D Molecular Design
+Learning to Generate 3D Shapes with Generative Cellular Automata
+Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis
+Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders
+Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering
+There are no titles in the list related to 3D reconstruction or generation.
+Safe Deep RL in 3D Environments using Human Feedback
+Representation-Agnostic Shape Fields
+A New Perspective on Fluid Simulation: An Image-to-Image Translation Task via Neural Networks
+Efficient Point Transformer for Large-scale 3D Scene Understanding
+Simple GNN Regularisation for 3D Molecular Property Prediction and Beyond
+Adaptive Wavelet Transformer Network for 3D Shape Representation Learning
+3D-Transformer: Molecular Representation with Transformer in 3D Space
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+"Deformable Capsules for Object Detection"
+"A 3D Convolutional Neural Network for Predicting Wildfire Profiles"
+"Depth Completion using Plane-Residual Representation"
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"Transformers for Modeling Physical Systems"
+"LayoutTransformer: Relation-Aware Scene Layout Generation"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Symmetry-Aware Actor-Critic for 3D Molecular Design"
+"A Hypergradient Approach to Robust Regression without Correspondence"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+"Learning Mesh-Based Simulation with Graph Networks"
+"Optimization Planning for 3D ConvNets"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"GENERATIVE MODEL-ENHANCED HUMAN MOTION PREDICTION"
+"Compositional Video Synthesis with Action Graphs"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Plan Optimistically: Uncertainty-Guided Deep Exploration via Latent Model Ensembles"
+"Sim2SG: Sim-to-Real Scene Graph Generation for Transfer Learning"
+"Improving Model Robustness with Latent Distribution Locally and Globally"
+None of the titles are highly related to the field of 3D reconstruction or generation.
+"Crystal Diffusion Variational Autoencoder for Periodic Material Generation"
+"Learning Global Spatial Information for Multi-View Object-Centric Models"
+"Generative Modeling with Optimal Transport Maps"
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Towards Robust Point Cloud Models with Context-Consistency Network and Adaptive Augmentation"
+"Generating Realistic Physical Adversarial Examples by Patch Transformer Network"
+"Learning Efficient Online 3D Bin Packing on Packing Configuration Trees"
+"Unsupervised Pose-Aware Part Decomposition for 3D Articulated Objects"
+"Boundary Graph Neural Networks for 3D Simulations"
+"Programmable 3D Snapshot Microscopy with Fourier Convolutional Networks"
+"Multilevel Physics Informed Neural Networks (MPINNs)"
+After analyzing all titles, here are the ones related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+
+These two papers appear to be directly related to 3D representation/reconstruction. While there are other papers dealing with various aspects of deep learning, computer vision, and neural networks, these are the ones specifically focused on 3D-related tasks.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+
+These three titles appear to be specifically focused on 3D-related tasks or representations.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Depth Completion using Plane-Residual Representation"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"On the Adversarial Robustness of 3D Point Cloud Classification"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"Pre-Training by Completing Point Clouds"
+"ATOM3D: Tasks On Molecules in Three Dimensions"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"Conformation-Guided Molecular Representation with Hamiltonian Neural Networks"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Deep Convolution for Irregularly Sampled Temporal Point Clouds"
+"Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+After analyzing the titles, none of them are directly related to 3D reconstruction or generation.
+Cancelled
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Generating Novel Scene Compositions from Single Images and Videos"
+"Latent Image Animator: Learning to Animate Images via Latent Space Navigation"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Training Data Generating Networks: Shape
+Concentric Spherical GNN for 3D Representation Learning
+3D Scene Compression through Entropy Penalized Neural Representation Functions
+Learning Hyperbolic Representations for Unsupervised 3D Segmentation
+Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth
+Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF
+On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes
+A 3D Convolutional Neural Network for Predicting Wildfire Profiles
+GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
+Depth Completion using Plane-Residual Representation
+Symmetry-Aware Actor-Critic for 3D Molecular Design
+Learning to Generate 3D Shapes with Generative Cellular Automata
+Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis
+Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders
+Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering
+There are no titles in the list related to 3D reconstruction or generation.
+Safe Deep RL in 3D Environments using Human Feedback
+Representation-Agnostic Shape Fields
+A New Perspective on Fluid Simulation: An Image-to-Image Translation Task via Neural Networks
+Efficient Point Transformer for Large-scale 3D Scene Understanding
+Simple GNN Regularisation for 3D Molecular Property Prediction and Beyond
+Adaptive Wavelet Transformer Network for 3D Shape Representation Learning
+3D-Transformer: Molecular Representation with Transformer in 3D Space
+Learning Efficient Online 3D Bin Packing on Packing Configuration Trees
+Unsupervised Pose-Aware Part Decomposition for 3D Articulated Objects
+Training Data Generating Networks: Shape Reconstruction via Bi-level Optimization
+Boundary Graph Neural Networks for 3D Simulations
+Programmable 3D snapshot microscopy with Fourier convolutional networks
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+"Deformable Capsules for Object Detection"
+"A 3D Convolutional Neural Network for Predicting Wildfire Profiles"
+"Depth Completion using Plane-Residual Representation"
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"Transformers for Modeling Physical Systems"
+"LayoutTransformer: Relation-Aware Scene Layout Generation"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Symmetry-Aware Actor-Critic for 3D Molecular Design"
+"A Hypergradient Approach to Robust Regression without Correspondence"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+"Learning Mesh-Based Simulation with Graph Networks"
+"Optimization Planning for 3D ConvNets"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"GENERATIVE MODEL-ENHANCED HUMAN MOTION PREDICTION"
+"Compositional Video Synthesis with Action Graphs"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Plan Optimistically: Uncertainty-Guided Deep Exploration via Latent Model Ensembles"
+"Sim2SG: Sim-to-Real Scene Graph Generation for Transfer Learning"
+"Improving Model Robustness with Latent Distribution Locally and Globally"
+None of the titles are highly related to the field of 3D reconstruction or generation.
+"Crystal Diffusion Variational Autoencoder for Periodic Material Generation"
+"Learning Global Spatial Information for Multi-View Object-Centric Models"
+"Generative Modeling with Optimal Transport Maps"
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Towards Robust Point Cloud Models with Context-Consistency Network and Adaptive Augmentation"
+"Generating Realistic Physical Adversarial Examples by Patch Transformer Network"
+"Learning Efficient Online 3D Bin Packing on Packing Configuration Trees"
+"Unsupervised Pose-Aware Part Decomposition for 3D Articulated Objects"
+"Boundary Graph Neural Networks for 3D Simulations"
+"Programmable 3D Snapshot Microscopy with Fourier Convolutional Networks"
+"Multilevel Physics Informed Neural Networks (MPINNs)"
+After analyzing all titles, here are the ones related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+
+These two papers appear to be directly related to 3D representation/reconstruction. While there are other papers dealing with various aspects of deep learning, computer vision, and neural networks, these are the ones specifically focused on 3D-related tasks.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+
+These three titles appear to be specifically focused on 3D-related tasks or representations.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Depth Completion using Plane-Residual Representation"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"On the Adversarial Robustness of 3D Point Cloud Classification"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"Pre-Training by Completing Point Clouds"
+"ATOM3D: Tasks On Molecules in Three Dimensions"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"Conformation-Guided Molecular Representation with Hamiltonian Neural Networks"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Deep Convolution for Irregularly Sampled Temporal Point Clouds"
+"Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+After analyzing the titles, none of them are directly related to 3D reconstruction or generation.
+Cancelled
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Generating Novel Scene Compositions from Single Images and Videos"
+"Latent Image Animator: Learning to Animate Images via Latent Space Navigation"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Training Data Generating Networks: Shape Reconstruction via Bi-level Optimization"
+"Unsupervise
+Concentric Spherical GNN for 3D Representation Learning
+3D Scene Compression through Entropy Penalized Neural Representation Functions
+Learning Hyperbolic Representations for Unsupervised 3D Segmentation
+Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth
+Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF
+On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes
+A 3D Convolutional Neural Network for Predicting Wildfire Profiles
+GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
+Depth Completion using Plane-Residual Representation
+Symmetry-Aware Actor-Critic for 3D Molecular Design
+Learning to Generate 3D Shapes with Generative Cellular Automata
+Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis
+Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders
+Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering
+There are no titles in the list related to 3D reconstruction or generation.
+Safe Deep RL in 3D Environments using Human Feedback
+Representation-Agnostic Shape Fields
+A New Perspective on Fluid Simulation: An Image-to-Image Translation Task via Neural Networks
+Efficient Point Transformer for Large-scale 3D Scene Understanding
+Simple GNN Regularisation for 3D Molecular Property Prediction and Beyond
+Adaptive Wavelet Transformer Network for 3D Shape Representation Learning
+3D-Transformer: Molecular Representation with Transformer in 3D Space
+Learning Efficient Online 3D Bin Packing on Packing Configuration Trees
+Unsupervised Pose-Aware Part Decomposition for 3D Articulated Objects
+Training Data Generating Networks: Shape Reconstruction via Bi-level Optimization
+Boundary Graph Neural Networks for 3D Simulations
+Programmable 3D snapshot microscopy with Fourier convolutional networks
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+"Deformable Capsules for Object Detection"
+"A 3D Convolutional Neural Network for Predicting Wildfire Profiles"
+"Depth Completion using Plane-Residual Representation"
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"Transformers for Modeling Physical Systems"
+"LayoutTransformer: Relation-Aware Scene Layout Generation"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Symmetry-Aware Actor-Critic for 3D Molecular Design"
+"A Hypergradient Approach to Robust Regression without Correspondence"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+"Learning Mesh-Based Simulation with Graph Networks"
+"Optimization Planning for 3D ConvNets"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"GENERATIVE MODEL-ENHANCED HUMAN MOTION PREDICTION"
+"Compositional Video Synthesis with Action Graphs"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Plan Optimistically: Uncertainty-Guided Deep Exploration via Latent Model Ensembles"
+"Sim2SG: Sim-to-Real Scene Graph Generation for Transfer Learning"
+"Improving Model Robustness with Latent Distribution Locally and Globally"
+None of the titles are highly related to the field of 3D reconstruction or generation.
+"Crystal Diffusion Variational Autoencoder for Periodic Material Generation"
+"Learning Global Spatial Information for Multi-View Object-Centric Models"
+"Generative Modeling with Optimal Transport Maps"
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Towards Robust Point Cloud Models with Context-Consistency Network and Adaptive Augmentation"
+"Generating Realistic Physical Adversarial Examples by Patch Transformer Network"
+"Learning Efficient Online 3D Bin Packing on Packing Configuration Trees"
+"Unsupervised Pose-Aware Part Decomposition for 3D Articulated Objects"
+"Boundary Graph Neural Networks for 3D Simulations"
+"Programmable 3D Snapshot Microscopy with Fourier Convolutional Networks"
+"Multilevel Physics Informed Neural Networks (MPINNs)"
+After analyzing all titles, here are the ones related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+
+These two papers appear to be directly related to 3D representation/reconstruction. While there are other papers dealing with various aspects of deep learning, computer vision, and neural networks, these are the ones specifically focused on 3D-related tasks.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+
+These three titles appear to be specifically focused on 3D-related tasks or representations.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Depth Completion using Plane-Residual Representation"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"On the Adversarial Robustness of 3D Point Cloud Classification"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"Pre-Training by Completing Point Clouds"
+"ATOM3D: Tasks On Molecules in Three Dimensions"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"Conformation-Guided Molecular Representation with Hamiltonian Neural Networks"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Deep Convolution for Irregularly Sampled Temporal Point Clouds"
+"Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+After analyzing the titles, none of them are directly related to 3D reconstruction or generation.
+Cancelled
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Generating Novel Scene Compositions from Single Images and Videos"
+"Latent Image Animator: Learning to Animate Images via Latent Space Navigation"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Training Data Generating Networks: Shape Reconstruction via Bi-level Optimization"
+"Unsupervised Pose-Aware Part Decomposition for 3D Articulated Objects"
+"
+Concentric Spherical GNN for 3D Representation Learning
+3D Scene Compression through Entropy Penalized Neural Representation Functions
+Learning Hyperbolic Representations for Unsupervised 3D Segmentation
+Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth
+Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF
+On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes
+A 3D Convolutional Neural Network for Predicting Wildfire Profiles
+GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
+Depth Completion using Plane-Residual Representation
+Symmetry-Aware Actor-Critic for 3D Molecular Design
+Learning to Generate 3D Shapes with Generative Cellular Automata
+Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis
+Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders
+Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering
+There are no titles in the list related to 3D reconstruction or generation.
+Safe Deep RL in 3D Environments using Human Feedback
+Representation-Agnostic Shape Fields
+A New Perspective on Fluid Simulation: An Image-to-Image Translation Task via Neural Networks
+Efficient Point Transformer for Large-scale 3D Scene Understanding
+Simple GNN Regularisation for 3D Molecular Property Prediction and Beyond
+Adaptive Wavelet Transformer Network for 3D Shape Representation Learning
+3D-Transformer: Molecular Representation with Transformer in 3D Space
+Learning Efficient Online 3D Bin Packing on Packing Configuration Trees
+Unsupervised Pose-Aware Part Decomposition for 3D Articulated Objects
+Training Data Generating Networks: Shape Reconstruction via Bi-level Optimization
+Boundary Graph Neural Networks for 3D Simulations
+Programmable 3D snapshot microscopy with Fourier convolutional networks
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+"Deformable Capsules for Object Detection"
+"A 3D Convolutional Neural Network for Predicting Wildfire Profiles"
+"Depth Completion using Plane-Residual Representation"
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"Transformers for Modeling Physical Systems"
+"LayoutTransformer: Relation-Aware Scene Layout Generation"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Symmetry-Aware Actor-Critic for 3D Molecular Design"
+"A Hypergradient Approach to Robust Regression without Correspondence"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+"Learning Mesh-Based Simulation with Graph Networks"
+"Optimization Planning for 3D ConvNets"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"GENERATIVE MODEL-ENHANCED HUMAN MOTION PREDICTION"
+"Compositional Video Synthesis with Action Graphs"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Plan Optimistically: Uncertainty-Guided Deep Exploration via Latent Model Ensembles"
+"Sim2SG: Sim-to-Real Scene Graph Generation for Transfer Learning"
+"Improving Model Robustness with Latent Distribution Locally and Globally"
+None of the titles are highly related to the field of 3D reconstruction or generation.
+"Crystal Diffusion Variational Autoencoder for Periodic Material Generation"
+"Learning Global Spatial Information for Multi-View Object-Centric Models"
+"Generative Modeling with Optimal Transport Maps"
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Towards Robust Point Cloud Models with Context-Consistency Network and Adaptive Augmentation"
+"Generating Realistic Physical Adversarial Examples by Patch Transformer Network"
+"Learning Efficient Online 3D Bin Packing on Packing Configuration Trees"
+"Unsupervised Pose-Aware Part Decomposition for 3D Articulated Objects"
+"Boundary Graph Neural Networks for 3D Simulations"
+"Programmable 3D Snapshot Microscopy with Fourier Convolutional Networks"
+"Multilevel Physics Informed Neural Networks (MPINNs)"
+After analyzing all titles, here are the ones related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+
+These two papers appear to be directly related to 3D representation/reconstruction. While there are other papers dealing with various aspects of deep learning, computer vision, and neural networks, these are the ones specifically focused on 3D-related tasks.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+
+These three titles appear to be specifically focused on 3D-related tasks or representations.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Depth Completion using Plane-Residual Representation"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"On the Adversarial Robustness of 3D Point Cloud Classification"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"Pre-Training by Completing Point Clouds"
+"ATOM3D: Tasks On Molecules in Three Dimensions"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"Conformation-Guided Molecular Representation with Hamiltonian Neural Networks"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Deep Convolution for Irregularly Sampled Temporal Point Clouds"
+"Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+After analyzing the titles, none of them are directly related to 3D reconstruction or generation.
+Cancelled
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Generating Novel Scene Compositions from Single Images and Videos"
+"Latent Image Animator: Learning to Animate Images via Latent Space Navigation"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Training Data Generating Networks: Shape Reconstruction via Bi-level Optimization"
+"Unsupervised Pose-Aware Part Decomposition for 3D Articulated Objects"
+"Boundary Graph Neural Networks for 3D
+Concentric Spherical GNN for 3D Representation Learning
+3D Scene Compression through Entropy Penalized Neural Representation Functions
+Learning Hyperbolic Representations for Unsupervised 3D Segmentation
+Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth
+Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF
+On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes
+A 3D Convolutional Neural Network for Predicting Wildfire Profiles
+GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
+Depth Completion using Plane-Residual Representation
+Symmetry-Aware Actor-Critic for 3D Molecular Design
+Learning to Generate 3D Shapes with Generative Cellular Automata
+Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis
+Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders
+Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering
+There are no titles in the list related to 3D reconstruction or generation.
+Safe Deep RL in 3D Environments using Human Feedback
+Representation-Agnostic Shape Fields
+A New Perspective on Fluid Simulation: An Image-to-Image Translation Task via Neural Networks
+Efficient Point Transformer for Large-scale 3D Scene Understanding
+Simple GNN Regularisation for 3D Molecular Property Prediction and Beyond
+Adaptive Wavelet Transformer Network for 3D Shape Representation Learning
+3D-Transformer: Molecular Representation with Transformer in 3D Space
+Learning Efficient Online 3D Bin Packing on Packing Configuration Trees
+Unsupervised Pose-Aware Part Decomposition for 3D Articulated Objects
+Training Data Generating Networks: Shape Reconstruction via Bi-level Optimization
+Boundary Graph Neural Networks for 3D Simulations
+Programmable 3D snapshot microscopy with Fourier convolutional networks
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+"Learning Hyperbolic Representations for Unsupervised 3D Segmentation"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+"Deformable Capsules for Object Detection"
+"A 3D Convolutional Neural Network for Predicting Wildfire Profiles"
+"Depth Completion using Plane-Residual Representation"
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"Transformers for Modeling Physical Systems"
+"LayoutTransformer: Relation-Aware Scene Layout Generation"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Symmetry-Aware Actor-Critic for 3D Molecular Design"
+"A Hypergradient Approach to Robust Regression without Correspondence"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+"Learning Mesh-Based Simulation with Graph Networks"
+"Optimization Planning for 3D ConvNets"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"GENERATIVE MODEL-ENHANCED HUMAN MOTION PREDICTION"
+"Compositional Video Synthesis with Action Graphs"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Plan Optimistically: Uncertainty-Guided Deep Exploration via Latent Model Ensembles"
+"Sim2SG: Sim-to-Real Scene Graph Generation for Transfer Learning"
+"Improving Model Robustness with Latent Distribution Locally and Globally"
+None of the titles are highly related to the field of 3D reconstruction or generation.
+"Crystal Diffusion Variational Autoencoder for Periodic Material Generation"
+"Learning Global Spatial Information for Multi-View Object-Centric Models"
+"Generative Modeling with Optimal Transport Maps"
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Towards Robust Point Cloud Models with Context-Consistency Network and Adaptive Augmentation"
+"Generating Realistic Physical Adversarial Examples by Patch Transformer Network"
+"Learning Efficient Online 3D Bin Packing on Packing Configuration Trees"
+"Unsupervised Pose-Aware Part Decomposition for 3D Articulated Objects"
+"Boundary Graph Neural Networks for 3D Simulations"
+"Programmable 3D Snapshot Microscopy with Fourier Convolutional Networks"
+"Multilevel Physics Informed Neural Networks (MPINNs)"
+After analyzing all titles, here are the ones related to 3D reconstruction or generation:
+
+"Concentric Spherical GNN for 3D Representation Learning"
+"3D Scene Compression through Entropy Penalized Neural Representation Functions"
+
+These two papers appear to be directly related to 3D representation/reconstruction. While there are other papers dealing with various aspects of deep learning, computer vision, and neural networks, these are the ones specifically focused on 3D-related tasks.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth"
+"Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF"
+"On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes"
+
+These three titles appear to be specifically focused on 3D-related tasks or representations.
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering"
+"Depth Completion using Plane-Residual Representation"
+"Point Cloud Instance Segmentation using Probabilistic Embeddings"
+"On the Adversarial Robustness of 3D Point Cloud Classification"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"The 3TConv: An Intrinsic Approach to Explainable 3D CNNs"
+"Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures"
+"Efficient Long-Range Convolutions for Point Clouds"
+"Unsupervised Discovery of 3D Physical Objects from Video"
+"Pre-Training by Completing Point Clouds"
+"ATOM3D: Tasks On Molecules in Three Dimensions"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+"NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation"
+"Conformation-Guided Molecular Representation with Hamiltonian Neural Networks"
+"MeshMVS: Multi-view Stereo Guided Mesh Reconstruction"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Learning Neural Generative Dynamics for Molecular Conformation Generation"
+"Deep Convolution for Irregularly Sampled Temporal Point Clouds"
+"Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis"
+"Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering"
+"Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders"
+"Learning to Generate 3D Shapes with Generative Cellular Automata"
+After analyzing the titles, none of them are directly related to 3D reconstruction or generation.
+Cancelled
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Adaptive Wavelet Transformer Network for 3D Shape Representation Learning"
+"3D-Transformer: Molecular Representation with Transformer in 3D Space"
+"Generating Novel Scene Compositions from Single Images and Videos"
+"Latent Image Animator: Learning to Animate Images via Latent Space Navigation"
+After analyzing the titles, here are the ones related to 3D reconstruction or generation:
+
+"Training Data Generating Networks: Shape Reconstruction via Bi-level Optimization"
+"Unsupervised Pose-Aware Part Decomposition for 3D Articulated Objects"
+"Boundary Graph Neural Networks for 3D Simulations"
+"Programmable 3D snapshot microscopy with Fou
+Concentric Spherical GNN for 3D Representation Learning
+3D Scene Compression through Entropy Penalized Neural Representation Functions
+Learning Hyperbolic Representations for Unsupervised 3D Segmentation
+Skinning a Parameterization of Three-Dimensional Space for Neural Network Cloth
+Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF
+On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes
+A 3D Convolutional Neural Network for Predicting Wildfire Profiles
+GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
+Depth Completion using Plane-Residual Representation
+Symmetry-Aware Actor-Critic for 3D Molecular Design
+Learning to Generate 3D Shapes with Generative Cellular Automata
+Imagine That! Leveraging Emergent Affordances for 3D Tool Synthesis
+Fast 3D Acoustic Scattering via Discrete Laplacian Based Implicit Function Encoders
+Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering
+There are no titles in the list related to 3D reconstruction or generation.
+Safe Deep RL in 3D Environments using Human Feedback
+Representation-Agnostic Shape Fields
+A New Perspective on Fluid Simulation: An Image-to-Image Translation Task via Neural Networks
+Efficient Point Transformer for Large-scale 3D Scene Understanding
+Simple GNN Regularisation for 3D Molecular Property Prediction and Beyond
+Adaptive Wavelet Transformer Network for 3D Shape Representation Learning
+3D-Transformer: Molecular Representation with Transformer in 3D Space
+Learning Efficient Online 3D Bin Packing on Packing Configuration Trees
+Unsupervised Pose-Aware Part Decomposition for 3D Articulated Objects
+Training Data Generating Networks: Shape Reconstruction via Bi-level Optimization
+Boundary Graph Neural Networks for 3D Simulations
+Programmable 3D snapshot microscopy with Fourier convolutional networks

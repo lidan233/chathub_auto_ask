@@ -1,0 +1,181 @@
+HeadSculpt: Crafting 3D Head Avatars with Text
+RenderMe-360: A Large Digital Asset Library and Benchmarks Towards High-fidelity Head Avatars
+Constructing Non-isotropic Gaussian Diffusion Model Using Isotropic Gaussian Diffusion Model for Image Editing
+Volume Feature Rendering for Fast Neural Radiance Field Reconstruction
+Segment Anything in 3D with NeRFs
+Uni3DETR: Unified 3D Detection Transformer
+DDF-HO: Hand-Held Object Reconstruction via Conditional Directed Distance Field
+LinkerNet: Fragment Poses and Linker Co-Design with 3D Equivariant Diffusion
+3D Indoor Instance Segmentation in an Open-World
+NAVI: Category-Agnostic Image Collections with High-Quality 3D Shape and Pose Annotations
+OpenMask3D: Open-Vocabulary 3D Instance Segmentation
+Generalizable One-shot 3D Neural Head Avatar
+One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization
+Estimating Generic 3D Room Structures from 2D Annotations
+Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving
+Mip-Grid: Anti-aliased Grid Representations for Neural Radiance Fields
+HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork
+3D-Aware Visual Question Answering about Parts, Poses and Occlusions
+Coupled Reconstruction of Cortical Surfaces by Diffeomorphic Mesh Deformation
+PrimDiffusion: Volumetric Primitives Diffusion for 3D Human Generation
+OpenShape: Scaling Up 3D Shape Representation Towards Open-World Understanding
+MiliPoint: A Point Cloud Dataset for mmWave Radar
+Grassmann Manifold Flows for Stable Shape Generation
+SLIBO-Net: Floorplan Reconstruction via Slicing Box Representation with Local Geometry Regularization
+3D-IntPhys: Towards More Generalized 3D-grounded Visual Intuitive Physics under Challenging Scenes
+FineMoGen: Fine-Grained Spatio-Temporal Motion Generation and Editing
+Learning Depth-regularized Radiance Fields from Asynchronous RGB-D Sequences
+Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase
+SceneScape: Text-Driven Consistent Scene Generation
+Benchmarking Encoder-Decoder Architectures for Biplanar X-ray to 3D Bone Shape Reconstruction
+Towards Generic Semi-Supervised Framework for Volumetric Medical Image Segmentation
+GenS: Generalizable Neural Surface Reconstruction from Multi-View Images
+ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields
+DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation
+Objaverse-XL: A Universe of 10M+ 3D Objects
+NAP: Neural 3D Articulated Object Prior
+Inner-Outer Aware Reconstruction Model for Monocular 3D Scene Reconstruction
+PolyDiffuse: Polygonal Shape Reconstruction via Guided Set Diffusion Models
+DiViNeT: 3D Reconstruction from Disparate Views using Neural Template Regularization
+Non-Rigid Shape Registration via Deep Functional Maps Prior
+Detection Based Part-level Articulated Object Reconstruction from Single RGBD Image
+Depth-discriminative Metric Learning for Monocular 3D Object Detection
+FlowCam: Training Generalizable 3D Radiance Fields without Camera Poses via Pixel-Aligned Scene Flow
+ITEM3D: Illumination-Aware Directional Texture Editing for 3D Models
+Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion
+A Dataset of Relighted 3D Interacting Hands
+3D Copy-Paste: Physically Plausible Object Insertion for Monocular 3D Detection
+XAGen: 3D Expressive Human Avatars Generation
+Prototypical Variational Autoencoder for 3D Few-shot Object Detection
+Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection
+NVFi: Neural Velocity Fields for 3D Physics Learning from Dynamic Videos
+Triangulation Residual Loss for Data-efficient 3D Pose Estimation
+Equivariant Flow Matching with Hybrid Probability Transport for 3D Molecule Generation
+Face Reconstruction from Facial Templates by Learning Latent Space of a Generator Network
+Global-correlated 3D-decoupling Transformer for Cl
+SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation
+Shape Non-rigid Kinematics (SNK): A Zero-Shot Method for Non-Rigid Shape Matching via Unsupervised Functional Map Regularized Reconstruction
+CorresNeRF: Image Correspondence Priors for Neural Radiance Fields
+DreamHuman: Animatable 3D Avatars from Text
+ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image
+DäRF: Boosting Radiance Fields from Sparse Input Views with Monocular Depth Adaptation
+Reconstructing the Mind's Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors
+AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis
+DreamSparse: Escaping from Plato’s Cave with 2D Diffusion Model Given Sparse Views
+CL-NeRF: Continual Learning of Neural Radiance Fields for Evolving Scene Representation
+Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors
+MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion
+Language-driven Scene Synthesis using Multi-conditional Diffusion Model
+Adv3D: Generating 3D Adversarial Examples in Driving Scenarios with NeRF
+Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation
+OBJECT 3DIT: Language-guided 3D-aware Image Editing
+Real3D-AD: A Dataset of Point Cloud Anomaly Detection
+Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark
+Sounding Bodies: Modeling 3D Spatial Sound of Humans Using Body Pose and Audio
+After analyzing all titles, here are the ones highly related to single-view 3D reconstruction or generation:
+
+RenderMe-360: A Large Digital Asset Library and Benchmarks Towards High-fidelity Head Avatars
+Segment Anything in 3D with NeRFs
+ReTR: Modeling Rendering Via Transformer for Generalizable Neural Surface Reconstruction
+Volume Feature Rendering for Fast Neural Radiance Field Reconstruction
+Cancelled
+Here are the titles related to single-view 3D reconstruction or generation:
+
+One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization
+Estimating Generic 3D Room Structures from 2D Annotations
+HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork
+Mip-Grid: Anti-aliased Grid Representations for Neural Radiance Fields
+Segment Anything in 3D with NeRFs
+PAPR: Proximity Attention Point Rendering
+Here are the titles related to single-view 3D reconstruction or generation:
+
+One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization
+PrimDiffusion: Volumetric Primitives Diffusion for 3D Human Generation
+Generative Neural Fields by Mixtures of Neural Implicit Functions
+OpenShape: Scaling Up 3D Shape Representation Towards Open-World Understanding
+3D-IntPhys: Towards More Generalized 3D-grounded Visual Intuitive Physics under Challenging Scenes
+Differentiable Blocks World: Qualitative 3D Decomposition by Rendering Primitives
+Exploitation and Contextual Objects and Relations for 3D Visual Grounding
+SLIBO-Net: Floorplan Reconstruction via Slicing Box Representation with Local Geometry Regularization
+Synthetic-to-Real Pose Estimation with Geometric Reconstruction
+Cancelled
+Here are the titles related to single-view 3D reconstruction or generation:
+
+GenS: Generalizable Neural Surface Reconstruction from Multi-View Images
+ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields
+DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation
+Objaverse-XL: A Universe of 10M+ 3D Objects
+FaceDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models
+CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection
+Here are the titles related to single-view 3D reconstruction or generation:
+
+NAP: Neural 3D Articulated Object Prior
+Inner-Outer Aware Reconstruction Model for Monocular 3D Scene Reconstruction
+UP-NeRF: Unconstrained Pose Prior-Free Neural Radiance Field
+PolyDiffuse: Polygonal Shape Reconstruction via Guided Set Diffusion Models
+DiViNeT: 3D Reconstruction from Disparate Views using Neural Template Regularization
+Detection Based Part-level Articulated Object Reconstruction from Single RGBD Image
+Here are the titles related to single-view 3D reconstruction or generation:
+
+3D-LLM: Injecting the 3D World into Large Language Models
+Autodecoding Latent 3D Diffusion Models
+Diffusion-SS3D: Diffusion Model for Semi-supervised 3D Object Detection
+PyNeRF: Pyramidal Neural Radiance Fields
+PanoGRF: Generalizable Spherical Radiance Fields for Wide-baseline Panoramas
+Depth-discriminative Metric Learning for Monocular 3D Object Detection
+SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation
+3D molecule generation by denoising voxel grids
+FourierHandFlow: Neural 4D Hand Representation Using Fourier Query Flow
+FlowCam: Training Generalizable 3D Radiance Fields without Camera Poses via Pixel-Aligned Scene Flow
+LightSpeed: Light and Fast Neural Light Fields on Mobile Devices
+RayDF: Neural Ray-surface Distance Fields with Multi-view Consistency
+ITEM3D: Illumination-Aware Directional Texture Editing for 3D Models
+Here are the titles related to single-view 3D reconstruction or generation:
+
+3D Copy-Paste: Physically Plausible Object Insertion for Monocular 3D Detection
+POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images
+XAGen: 3D Expressive Human Avatars Generation
+VPP: Efficient Conditional 3D Generation via Voxel-Point Progressive Representation
+LEPARD: Learning Explicit Part Discovery for 3D Articulated Shape Reconstruction
+Prototypical Variational Autoencoder for 3D Few-shot Object Detection
+CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data
+Template-free Articulated Neural Point Clouds for Reposable View Synthesis
+LART: Neural Correspondence Learning with Latent Regularization Transformer for 3D Motion Transfer
+Slot-guided Volumetric Object Radiance Fields
+Object-Centric Slot Diffusion
+Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection
+Query-based Temporal Fusion with Explicit Motion for 3D Object Detection
+Face Reconstruction from Facial Templates by Learning Latent Space of a Generator Network
+Here are the titles related to single-view 3D reconstruction or generation:
+
+Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction
+DELIFFAS: Deformable Light Fields for Fast Avatar Synthesis
+DynPoint: Dynamic Neural Point For View Synthesis
+Debiasing Scores and Prompts of 2D Diffusion for View-consistent Text-to-3D Generation
+PDF: Point Diffusion Implicit Function for Large-scale Scene Neural Representation
+Point Cloud Completion with Pretrained Text-to-Image Diffusion Models
+DiffComplete: Diffusion-based Generative 3D Shape Completion
+Transient Neural Radiance Fields for Lidar View Synthesis and 3D Reconstruction
+Here are the titles related to single-view 3D reconstruction or generation:
+
+SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation
+Shape Non-rigid Kinematics (SNK): A Zero-Shot Method for Non-rigid Shape Matching via Unsupervised Functional Map Regularized Reconstruction
+ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation
+ARTIC3D: Learning Robust Articulated 3D Shapes from Noisy Web Image Collections
+ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image
+DäRF: Boosting Radiance Fields from Sparse Input Views with Monocular Depth Adaptation
+DreamHuman: Animatable 3D Avatars from Text
+PointGPT: Auto-regressively Generative Pre-training from Point Clouds
+Here are the titles related to single-view 3D reconstruction or generation:
+
+DreamSparse: Escaping from Plato's Cave with 2D Diffusion Model Given Sparse Views
+AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis
+Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors
+CL-NeRF: Continual Learning of Neural Radiance Fields for Evolving Scene Representation
+MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion
+Adv3D: Generating 3D Adversarial Examples in Driving Scenarios with NeRF
+ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image
+DäRF: Boosting Radiance Fields from Sparse Input Views with Monocular Depth Adaptation
+Here are the titles related to single-view 3D reconstruction or generation:
+
+Michel

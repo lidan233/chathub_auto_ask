@@ -1,0 +1,93 @@
+3D Cinemagraphy From a Single Image
+3D Neural Field Generation Using Triplane Diffusion
+Behind the Scenes: Density Fields for Single View Reconstruction
+Complete 3D Human Reconstruction From a Single Incomplete Image
+Clothed Human Performance Capture With a Double-Layer Neural Radiance Fields
+Depth Estimation From Camera Image and mmWave Radar Point Cloud
+Depth Estimation From Indoor Panoramas With Neural Scene Representation
+Distilling Neural Fields for Real-Time Articulated Shape Reconstruction
+Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models
+EditableNeRF: Editing Topologically Varying Neural Radiance Fields by Key Points
+EventNeRF: Neural Radiance Fields From a Single Colour Event Camera
+Exact-NeRF: An Exploration of a Precise Volumetric Parameterization for Neural Radiance Fields
+FlexNeRF: Photorealistic Free-Viewpoint Rendering of Moving Humans From Sparse Views
+GazeNeRF: 3D-Aware Gaze Redirection With Neural Radiance Fields
+HandNeRF: Neural Radiance Fields for Animatable Interacting Hands
+High-Fidelity 3D Hand Shape Reconstruction via Scalable Graph Frequency Decomposition
+High-Fidelity 3D GAN Inversion by Pseudo-Multi-View Optimization
+High-Fidelity 3D Human Digitization From Single 2K Resolution Images
+High-Fidelity Clothed Avatar Reconstruction From a Single Image
+High-Fidelity Facial Avatar Reconstruction From Monocular Video With Generative Priors
+Learning 3D Representations From 2D Pre-Trained Models via Image-to-Point Masked Autoencoders
+Learning Human Mesh Recovery in 3D Scenes
+Learning Neural Parametric Head Models
+Learning Neural Volumetric Representations of Dynamic Humans in Minutes
+Learning Visibility Field for Detailed 3D Human Reconstruction and Relighting
+Local Implicit Ray Function for Generalizable Radiance Field Representation
+Looking Through the Glass: Neural Surface Reconstruction Against High Specular Reflections
+Magic3D: High-Resolution Text-to-3D Content Creation
+MonoHuman: Animatable Human Neural Field From Monocular Video
+NeRDi: Single-View NeRF Synthesis With Language-Guided Diffusion As General Image Priors
+Neural Residual Radiance Fields for Streamably Free-Viewpoint Videos
+Neural Texture Synthesis With Guided Correspondence
+NeuralLift-360: Lifting an In-the-Wild 2D Photo to a 3D Object With 360° Views
+Neuralangelo: High-Fidelity Neural Surface Reconstruction
+OmniAvatar: Geometry-Guided Controllable 3D Head Synthesis
+OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation
+PAniC-3D: Stylized Single-View 3D Reconstruction From Portraits of Anime Characters
+PC2: Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction
+REC-MV: REconstructing 3D Dynamic Cloth From Monocular Videos
+RealFusion: 360° Reconstruction of Any Object From a Single Image
+Recovering 3D Hand Mesh Sequence From a Single Blurry Image: A New Dataset and Temporal Unfolding
+RefSR-NeRF: Towards High Fidelity and Super Resolution View Synthesis
+RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation
+Removal of Objects From Neural Radiance Fields
+Cancelled
+Uni3D: A Unified Baseline for Multi-Dataset 3D Object Detection
+Vid2Avatar: 3D Avatar Reconstruction From Videos in the Wild via Self-Supervised Scene Decomposition
+Unsupervised 3D Shape Reconstruction by Part Retrieval and Assembly
+Weakly Supervised Monocular 3D Object Detection Using Multi-View Projection and Direction Consistency
+Weakly-Supervised Domain Adaptive Semantic Segmentation With Prototypical Contrastive Learning
+gSDF: Geometry-Driven Signed Distance Functions for 3D Hand-Object Reconstruction
+Here are the titles specifically related to single-view 3D reconstruction or generation:
+
+"3D Cinemagraphy From a Single Image"
+"3D Neural Field Generation Using Triplane Diffusion"
+"Behind the Scenes: Density Fields for Single View Reconstruction"
+"BUOL: A Bottom-Up Framework With Occupancy-Aware Lifting for Panoptic 3D Scene Reconstruction From a Single Image"
+
+These papers specifically deal with generating 3D content or performing 3D reconstruction from a single input image or view.
+Here are the titles specifically related to single-view 3D reconstruction or generation:
+
+"3D Cinemagraphy From a Single Image"
+"Behind the Scenes: Density Fields for Single View Reconstruction"
+"BUOL: A Bottom-Up Framework With Occupancy-Aware Lifting for Panoptic 3D Scene Reconstruction From a Single Image"
+"Complete 3D Human Reconstruction From a Single Incomplete Image"
+"Crowd3D: Towards Hundreds of People Reconstruction From a Single Image"
+"DIFu: Depth-Guided Implicit Function for Clothed Human Reconstruction"
+"Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models"
+Cancelled
+Cancelled
+Here are the titles specifically related to single-view 3D reconstruction or generation:
+
+"Complete 3D Human Reconstruction From a Single Incomplete Image"
+"DIFu: Depth-Guided Implicit Function for Clothed Human Reconstruction"
+"Magic3D: High-Resolution Text-to-3D Content Creation"
+"MaMo: Single View 3D Reconstruction With Differentiable Proxy Modeling"
+"MonoHuman: Animatable Human Neural Field From Monocular Video"
+"NeuralLift-360: Lifting an In-the-Wild 2D Photo to a 3D Object With 360° Views"
+"Neuralangelo: High-Fidelity Neural Surface Reconstruction"
+"Object Pop-Up: Can We Infer 3D Objects and Their Poses From Human Interactions Alone?"
+Cancelled
+Here are the titles specifically related to single-view 3D reconstruction or generation:
+
+"Shape, Pose, and Appearance From a Single Image via Bootstrapped Radiance Field Inversion"
+"Single View Scene Scale Estimation Using Scale Field"
+"ShapeClipper: Scalable 3D Shape Learning From Single-View Images via Geometric and CLIP-Based Consistency"
+"MonoHuman: Animatable Human Neural Field From Monocular Video"
+"SinGRAF: Learning a 3D Generative Radiance Field for a Single Scene"
+"Solving 3D Inverse Problems Using Pre-Trained 2D Diffusion Models"
+"TAPS3D: Text-Guided 3D Textured Shape Generation From Pseudo Supervision"
+"NeuralLift-360: Lifting an In-the-Wild 2D Photo to a 3D Object With 360° Views"
+"Neuralangelo: High-Fidelity Neural Surface Reconstruction"
+Cancelled

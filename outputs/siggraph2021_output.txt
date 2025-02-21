@@ -1,0 +1,4 @@
+"An Inverse Method for the Exploration of Layered Material Appearance"
+"Learning an Animatable Detailed 3D Face Model From In-the-wild Images"
+"Mi
+After analyzing the titles, here are the ones that are highly related to single-view 3D reconstruction

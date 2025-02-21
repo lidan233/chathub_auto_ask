@@ -1,0 +1,21 @@
+"Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors"
+"Learning Pseudo 3D Guidance for View-consistent 3D Texturing with 2D Diffusion"
+"DreamTime: An Improved Optimization Strategy for Diffusion-Guided 3D Generation"
+"SITTO: Single-Image Textured Mesh Reconstruction through Test-Time Optimization"
+"USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields"
+Looking through the titles, here are the ones related to single-view 3D reconstruction or generation:
+
+Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors
+Learning Pseudo 3D Guidance for View-consistent 3D Texturing with 2D Diffusion
+
+These titles specifically deal with generating 3D content from 2D/single-view inputs.
+From these titles, the following are related to single-view 3D reconstruction or generation:
+
+Learning Pseudo 3D Guidance for View-consistent 3D Texturing with 2D Diffusion
+VQ-CAD: Computer-Aided Design Model Generation with Vector Quantized Diffusion
+USB-NeRF: Unrolling Shutter Bundle Adjusted Neural
+Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors
+DreamTime: An Improved Optimization Strategy for Diffusion-Guided 3D Generation
+ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation
+Learning Pseudo 3D Guidance for View-consistent 3D Texturing with 2D Diffusion
+SITTO: Single-Image Textured Mesh Reconstruction through Test-Time Optimization

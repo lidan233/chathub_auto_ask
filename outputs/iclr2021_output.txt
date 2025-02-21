@@ -1,0 +1,14 @@
+Concentric Spherical GNN for 3D Representation Learning
+3D Scene Compression through Entropy Penalized Neural Representation Functions
+Learning Hyperbolic Representations for Unsupervised 3D Segmentation
+Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF
+On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes
+GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
+Point Cloud Instance Segmentation using Probabilistic Embeddings
+After analyzing all titles, I don't find any titles that are directly focused on single-view 3D reconstruction or generation. While there are a few papers that deal with 3D topics (like "Concentric Spherical GNN for 3D Representation Learning" and "3D Scene Compression through Entropy Penalized Neural Representation Functions"), they are focused on different aspects like representation learning and compression rather than single-view 3D reconstruction or generation.
+Cancelled
+From this list, I found two titles related to 3D reconstruction or generation:
+Concentric Spherical GNN for 3D Representation Learning
+Learning Hyperbolic Representations for Unsupervised 3D Segmentation
+On the Effectiveness of Weight-Encoded Neural Implicit 3D Shapes
+GRF

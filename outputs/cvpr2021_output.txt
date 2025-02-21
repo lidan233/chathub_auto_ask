@@ -1,0 +1,83 @@
+3DCaricShop: A Dataset and a Baseline Method for Single-View 3D Caricature Face Reconstruction
+3D Shape Generation With Grid-Based Implicit Functions
+D2IM-Net: Learning Detail Disentangled Implicit Fields From Single Images
+Deep Implicit Moving Least-Squares Functions for 3D Reconstruction
+Deep Implicit Templates for 3D Shape Representation
+Fostering Generalization in Single-View 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors
+From Points to Multi-Object 3D Reconstruction
+Generative PointNet: Deep Energy-Based Learning on Unordered Point Sets for 3D Generation, Reconstruction and Classification
+Holistic 3D Human and Scene Mesh Estimation From Single View Images
+Holistic 3D Scene Understanding From a Single Image With Implicit Representation
+Indoor Panorama Planar 3D Reconstruction via Divide and Conquer
+Joint Learning of 3D Shape Retrieval and Deformation
+Learning Monocular 3D Reconstruction of Articulated Categories From Motion
+Learning To Recover 3D Scene Shape From a Single Image
+Model-Based 3D Hand Reconstruction via Self-Supervised Learning
+MonoRec: Semi-Supervised Dense Reconstruction in Dynamic Environments From a Single Moving Camera
+Monocular 3D Multi-Person Pose Estimation by Integrating Top-Down and Bottom-Up Networks
+Monocular 3D Object Detection: An Extrinsic Parameter Free Approach
+Neural Body: Implicit Neural Representations With Structured Latent Codes for Novel View Synthesis of Dynamic Humans
+NeuralRecon: Real-Time Coherent 3D Reconstruction From Monocular Video
+Probabilistic 3D Human Shape and Pose Estimation From Multiple Unconstrained Images in the Wild
+Plan2Scene: Converting Floorplans to 3D Scenes
+Single-Image 3D Reconstruction via Convolutional Neural Networks
+View Synthesis with Neural Basis Expansion
+Reconstructing 3D Human Pose by Watching Humans in the Mirror
+Single-View 3D Object Reconstruction From Shape Priors in Memory
+Single-View Robot Pose and
+Towards Fast and Accurate Real-World Depth Super-Resolution: Benchmark Dataset and Baseline
+Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges
+Unsupervised 3D Shape Completion Through
+Based on my analysis, here are the titles specifically related to single-view 3D reconstruction or generation:
+
+"3DCaricShop: A Dataset and a Baseline Method for Single-View 3D Caricature Face Reconstruction"
+
+"Body2Hands: Learning To Infer 3D Hands From Conversational Gesture Body Dynamics"
+
+"Cuboids Revisited: Learning Robust 3D Shape Fitting to Single RGB Images"
+
+"D2IM-Net: Learning Detail Disentangled Implicit Fields From Single Images"
+
+These titles specifically mention single-view or single-image 3D reconstruction/generation tasks. While there are many other papers dealing with 3D topics, these are the ones that explicitly focus on reconstruction or generation from a single view/image.
+Cancelled
+Cancelled
+Here are the titles related to single-view 3D reconstruction or generation:
+
+"Model-Based 3D Hand Reconstruction via Self-Supervised Learning"
+"Monocular Reconstruction of Neural Face Reflectance Fields"
+"Multi-Person Implicit Reconstruction From a Single Image"
+"NeuralRecon: Real-Time Coherent 3D Reconstruction From Monocular Video"
+"Objects Are Different: Flexible Monocular 3D Object Detection"
+"PLADE-Net: Towards Pixel-Level Accuracy for Self-Supervised Single-View Depth Estimation With Neural Positional Encoding and Distilled Matting Loss"
+"POSEFusion: Pose-Guided Selective Fusion for Single-View Human Volumetric Capture"
+"Probabilistic 3D Human Shape and Pose Estimation From Multiple Unconstrained Images in the Wild"
+Cancelled
+Here are the titles related to single-view 3D reconstruction or generation:
+
+"Unsupervised Learning of
+3D Shape Generation With Grid-Based Implicit Functions
+3DCaricShop: A Dataset and a Baseline Method for Single-View 3D Caricature Face Reconstruction
+D2IM-Net: Learning Detail Disentangled Implicit Fields From Single Images
+Cuboids Revisited: Learning Robust 3D Shape Fitting to Single RGB Images
+Deep Implicit Moving Least-Squares Functions for 3D Reconstruction
+Deep Implicit Templates for 3D Shape Representation
+Deep Polarization Imaging for 3D Shape and SVBRDF Acquisition
+DeepSurfels: Learning Online Appearance Fusion
+Deformed Implicit Field: Modeling 3D Shapes With Learned Dense Correspondence
+Fostering Generalization in Single-View 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors
+Holistic 3D Human and Scene Mesh Estimation From Single View Images
+Holistic 3D Scene Understanding From a Single Image With Implicit Representation
+Learning To Recover 3D Scene Shape From a Single Image
+Model-Based 3D Hand Reconstruction via Self-Supervised Learning
+Monocular Reconstruction of Neural Face Reflectance Fields
+Neural Body: Implicit Neural Representations With Structured Latent Codes for Novel View Synthesis of Dynamic Humans
+NeuralFusion: Online Depth Fusion in Latent Space
+NeuralRecon: Real-Time Coherent 3D Reconstruction From Monocular Video
+PCLs: Geometry-Aware Neural Reconstruction of 3D Pose With Perspective Crop Layers
+Plan2Scene: Converting Floorplans to 3D Scenes
+Reconstructing 3D Human Pose by Watching Humans in the Mirror
+Self-Supervised 3D Mesh Reconstruction From Single Images
+Single-View 3D Object Reconstruction From Shape Priors in Memory
+Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges
+Unsupervised 3D Shape Completion Through GAN Inversion
+Unsupervised

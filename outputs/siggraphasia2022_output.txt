@@ -1,0 +1,6 @@
+"Capturing and Animation of Body and Clothing from Monocular Video"
+"Reconstructing Hand-Held Objects from Monocular Video"
+"Reconstructing Personalized Semantic Facial NeRF Models From
+After analyzing the titles, here are the ones highly related to single-view 3D reconstruction or generation:
+
+"Learning to Generate 3D Shapes from a
