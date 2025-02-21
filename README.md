@@ -28,7 +28,7 @@ This script is designed to automate interactions with Chathub, specifically for 
 
 3. **Execution**: Run the script using Python:
    ```bash
-   python automation_script.py
+   python main.py
    ```
 
 4. **Input Preparation**: Place your JSON files in the specified input directory. Each JSON file should contain an array of objects with a 'title' field.
