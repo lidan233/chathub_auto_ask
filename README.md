@@ -1,84 +1,50 @@
-# README
-================
+# Automation Script for Chathub Interaction and Data Processing
 
-## Project Overview
----------------
+## Introduction
 
-This project is designed to interact with the Chathub platform using Selenium and Python. The script logs in to the platform using Google authentication, sends problems to the chat interface, and extracts the outputs. The project also includes a feature to extract titles from JSON files and save the outputs to text files.
+This script is designed to automate interactions with Chathub, specifically for logging in, submitting data, and retrieving results. It leverages Playwright for browser automation and handles tasks such as user authentication, data submission, error handling, and output management.
 
-### Features
+## Features
 
-*   Google authentication using Selenium
-*   Sending problems to the Chathub interface
-*   Extracting outputs from the chat interface
-*   Extracting titles from JSON files
-*   Saving outputs to text files
+- **Automated Login**: The script includes a function to log in using Google authentication, enhancing security and reducing manual intervention.
+- **Batch Processing**: Data is submitted in batches to handle large volumes efficiently.
+- **Error Handling**: Robust mechanisms are in place to detect and manage errors, such as failed fetches or timeouts, ensuring the script remains resilient.
+- **Data Extraction and Saving**: The script extracts titles from JSON files, submits them for processing, and saves the results to text files for easy access.
 
-### Requirements
+## Requirements
 
-*   Python 3.8+
-*   Selenium
-*   Undetected Chromedriver
-*   Python JSON library
+- **Playwright**: A browser automation framework for handling web interactions.
+- **Python**: The scripting language used for the automation logic.
+- **JSON and Text Files**: For input data and output results, respectively.
 
-### Installation
+## Usage
 
-To install the required packages, run the following command:
+1. **Configuration**: Update the configuration variables at the top of the script with your actual email, password, input directory, output directory, and the URL of the web application.
 
-```bash
-pip install selenium undetected_chromedriver json
-```
+2. **Dependencies**: Ensure Playwright is installed in your environment. You can install it using pip:
+   ```bash
+   pip install playwright
+   ```
 
-### Usage
+3. **Execution**: Run the script using Python:
+   ```bash
+   python automation_script.py
+   ```
 
-To run the script, simply execute the `main.py` file:
+4. **Input Preparation**: Place your JSON files in the specified input directory. Each JSON file should contain an array of objects with a 'title' field.
 
-```bash
-python main.py
-```
+5. **Output Retrieval**: The script will generate text files in the output directory containing the processed results.
 
-The script will start the Selenium browser, log in to the Chathub platform, send problems, extract outputs, and save them to text files.
+## Functionality
 
-### JSON File Format
+- **Login**: The script logs in using Google authentication, ensuring a secure and seamless experience.
+- **Data Submission**: Titles extracted from JSON files are submitted in batches to the web application for processing.
+- **Result Handling**: After submission, the script waits for the results, handles any errors, and saves the outputs to text files.
 
-The JSON files used for extracting titles should have the following format:
+## Error Handling
 
-```json
-[
-    {
-        "title": "Title 1"
-    },
-    {
-        "title": "Title 2"
-    },
-    {
-        "title": "Title 3"
-    }
-]
-```
+The script includes mechanisms to detect and handle errors such as failed fetches or timeouts. If an error occurs, the script will attempt to reload the page and resubmit the data, ensuring minimal interruption to the process.
 
-### Configuration
+## Conclusion
 
-The script uses the following configuration:
-
-*   `iclr2021.json` file: This file contains the titles to be extracted. The script starts from the 1200th title.
-*   `outputs` directory: This directory is used to save the output text files.
-*   `inputs` directory: This directory contains the JSON files used for extracting titles.
-
-### Troubleshooting
-
-If you encounter any issues while running the script, make sure to:
-
-*   Check the Chrome browser version and update it if necessary
-*   Ensure that the Chromedriver version is compatible with the Chrome browser version
-*   Verify that the JSON files are in the correct format and directory
-
-### Contributing
-
-If you want to contribute to this project, please:
-
-*   Fork the repository
-*   Create a new branch for your feature or bug fix
-*   Submit a pull request with a clear description of the changes
-
-By contributing to this project, you agree to the terms of the [MIT License](LICENSE).
+This automation script streamlines interactions with a web application, making it easier to process data in batches, handle errors gracefully, and manage outputs efficiently. By following the usage instructions and configuring the script appropriately, users can automate their workflows effectively.
